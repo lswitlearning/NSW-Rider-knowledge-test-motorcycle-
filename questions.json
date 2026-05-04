@@ -1,0 +1,3789 @@
+[
+    {
+        "id": "ICAC1",
+        "question": "What will happen if you are caught cheating on the knowledge test?",
+        "options": [
+            "You will not be allowed to take another test for 6 weeks.",
+            "You will never be allowed to take another test.",
+            "Nothing, there is no penalty."
+        ],
+        "answer": 0,
+        "top": 139.25771999999995,
+        "image": null
+    },
+    {
+        "id": "ICAC2",
+        "question": "What will happen if you offer a testing officer a bribe to pass your driving test?",
+        "options": [
+            "Action will be taken against you. The penalties are severe and include fines and imprisonment.",
+            "Only the testing officer will be investigated.",
+            "Nothing, there is no penalty."
+        ],
+        "answer": 0,
+        "top": 270.6577199999999,
+        "image": null
+    },
+    {
+        "id": "ICAC3",
+        "question": "What will happen if a testing officer asks you for a bribe to pass your driving test and you give it to him or her?",
+        "options": [
+            "Action will be taken against all involved. The penalties are severe and include fines and imprisonment.",
+            "Nothing, there is no penalty.",
+            "Only the testing officer will be investigated. 1"
+        ],
+        "answer": 0,
+        "top": 414.5377199999999,
+        "image": null
+    },
+    {
+        "id": "CG013",
+        "question": "What is meant by this sign on or near a bridge?",
+        "options": [
+            "Slow down and be prepared to give way to vehicles travelling in the opposite direction.",
+            "Stop at all times before crossing the bridge and only give way to pedestrians who may be crossing.",
+            "Do not overtake a vehicle travelling in the same direction."
+        ],
+        "answer": 0,
+        "top": 116.21771999999999,
+        "image": "q_CG013.png"
+    },
+    {
+        "id": "CG017",
+        "question": "Where there is parallel kerbside parking, are you allowed to double-park alongside a parked vehicle?",
+        "options": [
+            "No, not at any time.",
+            "Yes, if delivering goods.",
+            "Yes, if not obstructing traffic."
+        ],
+        "answer": 0,
+        "top": 276.5377199999999,
+        "image": null
+    },
+    {
+        "id": "CG030",
+        "question": "You are driving at night with your headlights on high beam. When should you dip your headlights?",
+        "options": [
+            "When within 200 metres of the vehicle ahead or an oncoming one.",
+            "When within 200 metres of an oncoming vehicle only.",
+            "Never, you are allowed to drive with your lights on high beam at all times."
+        ],
+        "answer": 0,
+        "top": 427.73771999999997,
+        "image": null
+    },
+    {
+        "id": "CG031",
+        "question": "You are driving in a 60 km/h zone, with only one lane for traffic in your direction. You see a bus ahead (with this sign displayed on the rear) signalling its intention to pull out from a bus stop, you should -",
+        "options": [
+            "Slow down, and give way to the bus as it has priority.",
+            "Sound your horn to stop the bus from pulling out.",
+            "Continue at your normal speed as the bus does not have priority."
+        ],
+        "answer": 0,
+        "top": 559.0177199999999,
+        "image": "q_CG031.png"
+    },
+    {
+        "id": "CG043",
+        "question": "If an oncoming vehicle crosses the centre line and is coming straight at you and you cannot stop, you should -",
+        "options": [
+            "Brake, look for room to the left, sound your horn and flash your lights.",
+            "Slow down and hope that the driver will turn away.",
+            "Drive onto the wrong side of the road and hope the other vehicle does not do the same."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "CG044",
+        "question": "If you are involved in an accident where your vehicle needs to be towed away and the Police does not attend the crash scene, you -",
+        "options": [
+            "Must report the accident to the Police Station nearest to where the accident happened within 24 hours.",
+            "Do not need to report the accident to the Police.",
+            "Only need to report the accident to the Police if someone was injured. RUH"
+        ],
+        "answer": 0,
+        "top": 229.13771999999994,
+        "image": null
+    },
+    {
+        "id": "CG045",
+        "question": "If your vehicle is involved in an accident (regardless of the damage), what details must you give, to the other driver(s), if asked?",
+        "options": [
+            "You must let them see your licence, take details, and give the name and address of the vehicle's owner.",
+            "No details at all until you have contacted your insurance company.",
+            "Only your name and address details if a Policeman asks for them."
+        ],
+        "answer": 0,
+        "top": 364.37771999999995,
+        "image": "q_CG045.png"
+    },
+    {
+        "id": "CG046",
+        "question": "If a vehicle you are driving is involved in an accident and a person is injured, what must you do after stopping?",
+        "options": [
+            "Render every assistance and take immediate steps to have an ambulance notified. Then call the Police.",
+            "Only call the Police if the accident also resulted in over $500 worth of property damage.",
+            "Report the accident to Police within seven days. 3"
+        ],
+        "answer": 0,
+        "top": 555.5377199999999,
+        "image": "q_CG046.png"
+    },
+    {
+        "id": "CG049",
+        "question": "You should use your right-hand indicator when -",
+        "options": [
+            "You intend to move to the right, at any time.",
+            "You intend to slow down.",
+            "You are about to stop."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "CG052",
+        "question": "When merging onto the freeway from the entrance, you should -",
+        "options": [
+            "Look for a large enough break in the traffic and adjust your speed so as to fit into the traffic flow.",
+            "Sound your horn, turn on your indicator lights and move onto the freeway.",
+            "Stop and check the traffic behind you on the entrance."
+        ],
+        "answer": 0,
+        "top": 217.61771999999996,
+        "image": null
+    },
+    {
+        "id": "CG053",
+        "question": "If you see a sign indicating road repairs are going on, you should -",
+        "options": [
+            "Slow down and watch for traffic controllers and instructions.",
+            "Stop immediately and wait for instructions.",
+            "Maintain the same speed."
+        ],
+        "answer": 0,
+        "top": 361.61771999999996,
+        "image": null
+    },
+    {
+        "id": "CG055",
+        "question": "You see a broken yellow line painted on the roadway adjacent to the kerb. What does it mean?",
+        "options": [
+            "Clearway restrictions apply - you must not stop during the clearway hours.",
+            "You may at any time, park along this part of the road for 1 hour only.",
+            "Bicycle riders must ride along the yellow line."
+        ],
+        "answer": 0,
+        "top": 481.37771999999995,
+        "image": null
+    },
+    {
+        "id": "CG056",
+        "question": "If you see a horse and rider on the road what should you do?",
+        "options": [
+            "Slow down and give them plenty of room.",
+            "Sound your horn to warn the rider.",
+            "Speed up to pass the horse. 4"
+        ],
+        "answer": 0,
+        "top": 625.49772,
+        "image": null
+    },
+    {
+        "id": "CG090",
+        "question": "You hear the siren of an ambulance approaching you from behind. You should -",
+        "options": [
+            "Move into the left lane.",
+            "Slow down to the speed of other traffic.",
+            "Continue at the same speed. RUH"
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_CG090.png"
+    },
+    {
+        "id": "CG094",
+        "question": "Generally, if you hear the siren of an emergency vehicle you should -",
+        "options": [
+            "Pull over to the left until the emergency vehicle passes.",
+            "Immediately come to a stop.",
+            "Let the emergency vehicle pass and follow it closely behind."
+        ],
+        "answer": 0,
+        "top": 262.25771999999995,
+        "image": null
+    },
+    {
+        "id": "CG102",
+        "question": "You want to park your vehicle for a short time. It is night time. You should -",
+        "options": [
+            "Pick a visible position or leave the parking or hazard lights on.",
+            "Park on the footpath.",
+            "Leave your headlights on high beam."
+        ],
+        "answer": 0,
+        "top": 405.29771999999997,
+        "image": "q_CG102.png"
+    },
+    {
+        "id": "CG113",
+        "question": "Looking at the diagrams, how far from the approach side of a bus stop or a railway crossing are you allowed to stand or park your vehicle?",
+        "options": [
+            "At least 20 metres.",
+            "At least 50 metres.",
+            "At least 5 metres. 5"
+        ],
+        "answer": 0,
+        "top": 571.61772,
+        "image": "q_CG113.png"
+    },
+    {
+        "id": "CG116",
+        "question": "Bicycle and motorcycle riders have the same rights to use the road as other motor vehicle drivers. They are, however, more at risk in traffic because -",
+        "options": [
+            "They are harder to see in traffic and do not have the same protection as many drivers.",
+            "They are careless and do not obey road rules.",
+            "They ride too fast and do not turn their lights on."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "CG118",
+        "question": "If you are driving towards a road works zone and a traffic controller displays a stop sign you must -",
+        "options": [
+            "Stop your vehicle and follow the directions of the traffic controller.",
+            "Stop and then proceed if you think it is safe.",
+            "Slow down and continue through the road works zone."
+        ],
+        "answer": 0,
+        "top": 241.85771999999997,
+        "image": null
+    },
+    {
+        "id": "CG119",
+        "question": "If you are driving through a road work zone in the left hand lane and you see this sign you should -",
+        "options": [
+            "Merge to the right and give way to other traffic.",
+            "Speed up to get in front of any cars traveling in the right hand lane.",
+            "Stop and wait for directions. RUH"
+        ],
+        "answer": 0,
+        "top": 401.33771999999993,
+        "image": "q_CG119.png"
+    },
+    {
+        "id": "CG122",
+        "question": "Do bicycle riders have the same rights and responsibilities as drivers and motorcycle riders?",
+        "options": [
+            "Yes.",
+            "No, they must always ride on the footpath.",
+            "No, they must give way to cars at all times when riding on the road. 6"
+        ],
+        "answer": 0,
+        "top": 587.57772,
+        "image": null
+    },
+    {
+        "id": "MG002",
+        "question": "When is a motorcycle rider allowed to ride without an approved helmet?",
+        "options": [
+            "Never.",
+            "When the rider has a medical certificate.",
+            "Only during daylight hours."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG004",
+        "question": "What equipment must be fitted to a motorcycle if pillion passengers are to be carried?",
+        "options": [
+            "Separate footrests and a pillion seat.",
+            "Heavy duty shock absorbers.",
+            "An engine of more than 250ml capacity."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG007",
+        "question": "You need to stop quickly, you should use -",
+        "options": [
+            "Both brakes together.",
+            "The front brake only.",
+            "The rear brake only."
+        ],
+        "answer": 0,
+        "top": 337.49771999999996,
+        "image": null
+    },
+    {
+        "id": "MG008",
+        "question": "To make a normal stop, you should use -",
+        "options": [
+            "Both front and rear brakes.",
+            "The rear brake only.",
+            "The front brake only."
+        ],
+        "answer": 0,
+        "top": 477.05771999999996,
+        "image": null
+    },
+    {
+        "id": "MG010",
+        "question": "You are going to make a turn. When should you apply the brakes?",
+        "options": [
+            "Before you start the turn.",
+            "As you come out of the turn.",
+            "While you are in the turn. 7"
+        ],
+        "answer": 0,
+        "top": 616.73772,
+        "image": null
+    },
+    {
+        "id": "MG011",
+        "question": "If you have to downshift for a turn, you should do it -",
+        "options": [
+            "Before you start the turn.",
+            "Just as you begin the turn.",
+            "While you are in the turn."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG012",
+        "question": "If you wear regular spectacles while you ride -",
+        "options": [
+            "You should also wear a face shield or visor.",
+            "You need no other eye protection.",
+            "You must not ride at night."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG015",
+        "question": "Every time before you ride you should check -",
+        "options": [
+            "That the headlight and stop light are working.",
+            "Your fuel tap is not on ‘reserve’.",
+            "The expiry date of your licence."
+        ],
+        "answer": 0,
+        "top": 337.49771999999996,
+        "image": null
+    },
+    {
+        "id": "MG016",
+        "question": "What should you be able to see in each mirror fitted to your motorcycle?",
+        "options": [
+            "About half of the lane behind you and as much as possible of the lane next to you.",
+            "The lane behind.",
+            "Your shoulder and the lane behind."
+        ],
+        "answer": 0,
+        "top": 477.05771999999996,
+        "image": null
+    },
+    {
+        "id": "MG017",
+        "question": "When you slow down for a stop, you should -",
+        "options": [
+            "Downshift before stopping.",
+            "Downshift only if there is traffic ahead of you.",
+            "Downshift after stopping. 8"
+        ],
+        "answer": 0,
+        "top": 629.45772,
+        "image": null
+    },
+    {
+        "id": "MG018",
+        "question": "On a wet road how do you make an emergency stop?",
+        "options": [
+            "Apply the front and rear brakes together.",
+            "Apply the rear brake only.",
+            "Apply the front brake only if the rear wheel begins to slide."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG020",
+        "question": "Where should you look when following a car?",
+        "options": [
+            "Over or through the car you are following as well as watching its brake lights.",
+            "At the car's brake lights.",
+            "To the right-hand side of the car you are following."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG021",
+        "question": "In what part of the lane should you ride when being passed by on-coming vehicles?",
+        "options": [
+            "The centre or left of your lane.",
+            "No special part of your lane.",
+            "As close to the centre line as possible."
+        ],
+        "answer": 0,
+        "top": 350.0977199999999,
+        "image": null
+    },
+    {
+        "id": "MG023",
+        "question": "A turn signal that keeps flashing after a turn is very likely to -",
+        "options": [
+            "Confuse other drivers and cause them to turn into your path.",
+            "Damage the electrical system.",
+            "Keep other drivers from seeing your brake light."
+        ],
+        "answer": 0,
+        "top": 481.37771999999995,
+        "image": null
+    },
+    {
+        "id": "MG026",
+        "question": "You are being overtaken by a car on a two-laned road. In what part of the lane should you ride?",
+        "options": [
+            "The centre or left of your lane.",
+            "No special part of your lane.",
+            "The far right of your lane. 9"
+        ],
+        "answer": 0,
+        "top": 621.1777199999999,
+        "image": null
+    },
+    {
+        "id": "MG027",
+        "question": "If you have not ridden a particular motorcycle before, you should -",
+        "options": [
+            "Allow extra stopping distance.",
+            "Use the rear brake only.",
+            "Not go faster than 30 km/h."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG028",
+        "question": "When riding on a wet road, what is usually the most slippery part?",
+        "options": [
+            "The centre of the lane.",
+            "The right wheel track.",
+            "The left wheel track."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG030",
+        "question": "You are riding along on a sealed road when you see sand on the road ahead. What should you do?",
+        "options": [
+            "Slow down because it takes longer to stop on a slippery road surface.",
+            "Stay at the same speed.",
+            "Increase your speed."
+        ],
+        "answer": 0,
+        "top": 337.49771999999996,
+        "image": null
+    },
+    {
+        "id": "MG031",
+        "question": "When riding over loose gravel or sand, you should -",
+        "options": [
+            "Avoid sudden or quick movements.",
+            "Change up to a higher gear.",
+            "Slow down by using the front brake only."
+        ],
+        "answer": 0,
+        "top": 493.01771999999994,
+        "image": null
+    },
+    {
+        "id": "MG032",
+        "question": "When riding on a bumpy road -",
+        "options": [
+            "Rise slightly on the footrests so that you can absorb the shock with your knees and elbows.",
+            "Keep your normal seating position.",
+            "Take your feet off the footpegs. 10"
+        ],
+        "answer": 0,
+        "top": 632.69772,
+        "image": null
+    },
+    {
+        "id": "MG034",
+        "question": "What is the first thing to do if you have a blowout?",
+        "options": [
+            "Hold the hand grips tightly. Gradually close the throttle and let the motorcycle slow down.",
+            "Brake lightly on the wheel with the good tyre.",
+            "Turn quickly off the road."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG035",
+        "question": "At low speeds, if the rear tyre goes flat what is the first thing you will notice?",
+        "options": [
+            "The rear of the motorcycle will tend to slide from side to side.",
+            "The steering will feel heavy.",
+            "Your brakes will not work."
+        ],
+        "answer": 0,
+        "top": 227.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG036",
+        "question": "At low speeds, if the front tyre goes flat what is the first thing you will notice?",
+        "options": [
+            "The steering will feel heavy.",
+            "The motorcycle will tend to slide from side to side.",
+            "The motorcycle will lean heavily to one side."
+        ],
+        "answer": 0,
+        "top": 358.37771999999995,
+        "image": null
+    },
+    {
+        "id": "MG037",
+        "question": "To handle a high speed wobble, firmly grip the handlebars and -",
+        "options": [
+            "Allow the motorcycle to slow down.",
+            "Increase your speed.",
+            "Quickly apply the brakes."
+        ],
+        "answer": 0,
+        "top": 498.05771999999996,
+        "image": null
+    },
+    {
+        "id": "MG038",
+        "question": "If your throttle sticks while in traffic, what is the first thing you should do?",
+        "options": [
+            "Immediately squeeze the clutch lever, turn off the engine at the cut- off switch and apply the brakes.",
+            "Rotate the throttle back and forth several times.",
+            "Sound your horn to warn other vehicles. 11"
+        ],
+        "answer": 0,
+        "top": 637.85772,
+        "image": null
+    },
+    {
+        "id": "MG040",
+        "question": "When carrying a pillion passenger, the passenger should sit -",
+        "options": [
+            "Behind and as close as possible to the rider.",
+            "Behind and as far from the rider as possible.",
+            "In front of and as close to the rider as possible."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG041",
+        "question": "In a turn you should tell a pillion passenger to -",
+        "options": [
+            "Lean in the same direction as the rider.",
+            "Stay upright.",
+            "Lean in the opposite direction from the turn."
+        ],
+        "answer": 0,
+        "top": 214.49771999999996,
+        "image": null
+    },
+    {
+        "id": "MG042",
+        "question": "What should a pillion passenger do when you stop?",
+        "options": [
+            "Keep both feet on the footpegs.",
+            "Place both feet on the ground.",
+            "Place the same foot on the ground as the rider."
+        ],
+        "answer": 0,
+        "top": 354.05771999999996,
+        "image": null
+    },
+    {
+        "id": "MG043",
+        "question": "A pillion passenger should hold on to -",
+        "options": [
+            "The rider's waist, hips or passenger's handgrip.",
+            "The rider's arms.",
+            "The rider's helmet."
+        ],
+        "answer": 0,
+        "top": 485.45771999999994,
+        "image": null
+    },
+    {
+        "id": "MG045",
+        "question": "How old must you be to obtain a learner rider licence?",
+        "options": [
+            "16 years and 9 months of age.",
+            "16 years of age.",
+            "16 years and 3 months of age. 12"
+        ],
+        "answer": 0,
+        "top": 616.73772,
+        "image": null
+    },
+    {
+        "id": "MG047",
+        "question": "If you are stopped by Police while riding a motorcycle on a road or road related area and you are not carrying your rider's licence you could expect to be -",
+        "options": [
+            "Given an on-the-spot fine or summonsed to Court by Police.",
+            "Given twelve hours to produce it at your local Police Station.",
+            "Told to go home and get it."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG048",
+        "question": "Police officers may check that you are correctly licensed when -",
+        "options": [
+            "You are stopped for Random Breath Testing.",
+            "You stop to pay tolls.",
+            "Riding on a freeway or motorway."
+        ],
+        "answer": 0,
+        "top": 226.01771999999994,
+        "image": null
+    },
+    {
+        "id": "MG050",
+        "question": "Wearing the right protective clothing when riding can -",
+        "options": [
+            "Greatly reduce injury in the event of a crash.",
+            "Make you very hot and reduce your ability to ride.",
+            "Make no difference to you when you ride."
+        ],
+        "answer": 0,
+        "top": 365.57771999999994,
+        "image": null
+    },
+    {
+        "id": "MG051",
+        "question": "When are you allowed to ride a motorcycle on roads in NSW without wearing a helmet?",
+        "options": [
+            "Never.",
+            "When you have a doctor's certificate.",
+            "When the temperature reaches 32 degrees in summer."
+        ],
+        "answer": 0,
+        "top": 493.73771999999997,
+        "image": null
+    },
+    {
+        "id": "MG052",
+        "question": "What should be displayed upon an approved helmet?",
+        "options": [
+            "An Australian Standards AS1698 sticker.",
+            "Bright stickers to make the helmet more visible to vehicle drivers.",
+            "A manufacturer's approval and checked by sticker. 13"
+        ],
+        "answer": 0,
+        "top": 644.81772,
+        "image": null
+    },
+    {
+        "id": "MG053",
+        "question": "To ensure a helmet is in good condition you should -",
+        "options": [
+            "Only purchase a new one. Never buy a second hand helmet.",
+            "Only buy a helmet that someone else has tried out first.",
+            "Check to make sure it has not been dropped."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG055",
+        "question": "If you have a crash whilst wearing your helmet you should -",
+        "options": [
+            "Replace it.",
+            "Check to make sure it is not damaged.",
+            "If it is scratched or chipped get it repainted."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG056",
+        "question": "If you find cracks or loose padding in your helmet you should -",
+        "options": [
+            "Replace it.",
+            "Have it repaired by an authorised person.",
+            "Use high speed duct tape to hold it together as it is waterproof."
+        ],
+        "answer": 0,
+        "top": 345.77771999999993,
+        "image": null
+    },
+    {
+        "id": "MG057",
+        "question": "Wearing a helmet visor or goggles when riding will -",
+        "options": [
+            "Protect your eyes from the wind, dust, rain, insects or stones thrown up by other vehicles.",
+            "Reduce your vision and should only be worn in the rain.",
+            "Not make much difference to your riding on a fine day when there is no wind. 14"
+        ],
+        "answer": 0,
+        "top": 477.05771999999996,
+        "image": null
+    },
+    {
+        "id": "MG058",
+        "question": "The best type of footwear when riding are -",
+        "options": [
+            "Boots which provide ankle protection.",
+            "Trainers or Joggers.",
+            "Steel toe capped boots."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG059",
+        "question": "Protective clothing should be -",
+        "options": [
+            "Comfortable without being loose.",
+            "Very tight so they won't move if you fall off your bike.",
+            "Loose to allow air flow to keep you cool in summer."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "MG060",
+        "question": "Other protective options to wear when riding include -",
+        "options": [
+            "Back protectors to protect your spine and kidney belts.",
+            "Nylon jacket and pants.",
+            "Light cotton shirt and pants."
+        ],
+        "answer": 0,
+        "top": 337.49771999999996,
+        "image": null
+    },
+    {
+        "id": "MG061",
+        "question": "When learning to ride you should -",
+        "options": [
+            "Start in quiet streets that you know well.",
+            "Ride in groups so that you are protected from cars.",
+            "Gain experience in complex traffic situations to build your skills quickly."
+        ],
+        "answer": 0,
+        "top": 480.29771999999997,
+        "image": null
+    },
+    {
+        "id": "MG062",
+        "question": "Any passenger carried on a motorcycle (not in a sidecar) must -",
+        "options": [
+            "Be eight years of age or older.",
+            "Be at least six years of age.",
+            "Be a holder of a rider licence. 15"
+        ],
+        "answer": 0,
+        "top": 611.57772,
+        "image": null
+    },
+    {
+        "id": "MG063",
+        "question": "Your ability to concentrate can be affected by -",
+        "options": [
+            "Fatigue, alcohol, drugs and the clothing you wear.",
+            "The type of motorcycle you ride.",
+            "Whether you are familiar with the road you are riding on."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "MG064",
+        "question": "Correct riding posture -",
+        "options": [
+            "Reduces fatigue and improves control.",
+            "Is whatever position you are most comfortable in.",
+            "Will make you more visible to other road users. 16"
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "AD004",
+        "question": "To reduce the effect of alcohol before driving or riding you should -",
+        "options": [
+            "Wait. The time depends on how much you have drunk.",
+            "Drink black coffee.",
+            "Have a glass of water."
+        ],
+        "answer": 0,
+        "top": 116.21771999999999,
+        "image": null
+    },
+    {
+        "id": "AD009",
+        "question": "Before driving a motor vehicle or riding a motor cycle it is safest -",
+        "options": [
+            "Not to drink any alcohol.",
+            "Drink 1 nip of spirits (30 ml or 1 oz).",
+            "Drink 1 middy (285 ml) of light (low alcohol) beer."
+        ],
+        "answer": 0,
+        "top": 236.09771999999998,
+        "image": null
+    },
+    {
+        "id": "AD012",
+        "question": "Is it an offence to refuse to take a POLICE breath test?",
+        "options": [
+            "Yes, always.",
+            "No, if you say you haven't been drinking alcohol.",
+            "No, if you are a learner driver."
+        ],
+        "answer": 0,
+        "top": 355.85772,
+        "image": null
+    },
+    {
+        "id": "AD013",
+        "question": "If you take medicine and then drink alcohol -",
+        "options": [
+            "It can have a particularly bad effect on your driving ability.",
+            "The alcohol will have less effect than if taken alone.",
+            "Your ability to react to emergencies will improve."
+        ],
+        "answer": 0,
+        "top": 475.73771999999997,
+        "image": null
+    },
+    {
+        "id": "AD015",
+        "question": "Having 1 or 2 alcoholic drinks before driving -",
+        "options": [
+            "Will affect your reactions and judgement.",
+            "Improves your driving ability.",
+            "Has no effect on your driving ability. 17"
+        ],
+        "answer": 0,
+        "top": 583.97772,
+        "image": null
+    },
+    {
+        "id": "AD016",
+        "question": "Even if you feel unaffected after drinking alcohol, you should -",
+        "options": [
+            "Be aware that your abilities are decreased.",
+            "Drive, but avoid using freeways.",
+            "Spend more time than usual looking in the mirrors."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "AD025",
+        "question": "Alcohol is a depressant. This means -",
+        "options": [
+            "It slows down how quickly your brain works.",
+            "It speeds your brain up so you can work better.",
+            "It makes you calm down and think more clearly. RUH"
+        ],
+        "answer": 0,
+        "top": 183.1777199999999,
+        "image": null
+    },
+    {
+        "id": "AD026",
+        "question": "After drinking alcohol you could -",
+        "options": [
+            "Misjudge speed (your own and others).",
+            "Be able to drive the same as you normally can.",
+            "Be able to pay close attention to details in the traffic."
+        ],
+        "answer": 0,
+        "top": 305.57928000000004,
+        "image": null
+    },
+    {
+        "id": "AD027",
+        "question": "Which of the following statements relating to motorcyclists and bicycle riders is correct?",
+        "options": [
+            "Alcohol affects their sense of balance.",
+            "Alcohol improves their concentration.",
+            "Alcohol improves their reflexes and judgement."
+        ],
+        "answer": 0,
+        "top": 425.33771999999993,
+        "image": null
+    },
+    {
+        "id": "AD037",
+        "question": "Consuming even small amounts of alcohol before riding may -",
+        "options": [
+            "Affect your ability to control your motorcycle and make riding dangerous.",
+            "Help clear your mind by relaxing you.",
+            "Have no effect whatsoever on you."
+        ],
+        "answer": 0,
+        "top": 533.6977199999999,
+        "image": null
+    },
+    {
+        "id": "AD038",
+        "question": "What is the safest way to stay under the legal alcohol limit?",
+        "options": [
+            "Not drinking any alcohol.",
+            "Buying a breathalyser (alcohol measuring instrument).",
+            "Exercising and drinking black coffee. 18"
+        ],
+        "answer": 0,
+        "top": 654.6577199999999,
+        "image": null
+    },
+    {
+        "id": "DR001",
+        "question": "If you are taking any sort of medicine, you should -",
+        "options": [
+            "Find out from your doctor or chemist whether the medicine or drug will affect your driving and act accordingly.",
+            "Only drive during the day after taking the medicine or drug.",
+            "Only drive a motor car not a heavy vehicle."
+        ],
+        "answer": 0,
+        "top": 94.61771999999996,
+        "image": null
+    },
+    {
+        "id": "DR002",
+        "question": "Before taking any drugs and then driving it is most important to -",
+        "options": [
+            "Know what the effects of the drug are.",
+            "Plan to have some other person with you.",
+            "Have some food in your stomach."
+        ],
+        "answer": 0,
+        "top": 227.09771999999998,
+        "image": null
+    },
+    {
+        "id": "DR004",
+        "question": "If you have used illegal drugs you -",
+        "options": [
+            "Must not drive.",
+            "May drive only in light traffic.",
+            "Should drink coffee before driving."
+        ],
+        "answer": 0,
+        "top": 346.9777199999999,
+        "image": null
+    },
+    {
+        "id": "DR012",
+        "question": "To ensure prescription drugs will not affect your ability to ride a motorcycle you should -",
+        "options": [
+            "Tell your doctor you ride a motorcycle, check with your pharmacist and read the label on the drugs.",
+            "Not ride at all while taking any medication.",
+            "Not take the medication if you want to ride. 19"
+        ],
+        "answer": 0,
+        "top": 466.73771999999997,
+        "image": null
+    },
+    {
+        "id": "BI001",
+        "question": "You are driving on a road with a speed limit of 60km/h or less. How much space must you leave when passing a bicycle rider?-",
+        "options": [
+            "at least 1 metre.",
+            "at least 1.5 metres.",
+            "as much as you think is safe."
+        ],
+        "answer": 0,
+        "top": 82.49771999999996,
+        "image": null
+    },
+    {
+        "id": "BI002",
+        "question": "You are driving on a road with a speed limit above 60km/h. How much space must you leave when passing a bicycle rider?-",
+        "options": [
+            "at least 1 metre.",
+            "at least 1.5 metres.",
+            "as much as you think is safe."
+        ],
+        "answer": 0,
+        "top": 219.89771999999994,
+        "image": null
+    },
+    {
+        "id": "BI003",
+        "question": "In order to provide the minimum safe passing distance for bicycle riders, are you permitted to cross single and double continuous lines?",
+        "options": [
+            "no.",
+            "yes, always",
+            "yes, but you must have a clear view of any approaching traffic and it must be safe to do so. 20"
+        ],
+        "answer": 0,
+        "top": 368.69771999999995,
+        "image": null
+    },
+    {
+        "id": "FD001",
+        "question": "Under good conditions, when driving behind any vehicle, at any speed, you should -",
+        "options": [
+            "Stay at least three seconds behind the vehicle in front of you.",
+            "Drive as close to the vehicle in front as possible.",
+            "Stay one second behind the vehicle in front of you."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "FD002",
+        "question": "When driving in wet weather, your vehicle will -",
+        "options": [
+            "Take longer and further to stop, so slow down.",
+            "Stop in the same distance as on a dry road.",
+            "Handle better, so you can go faster."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "FD003",
+        "question": "At night, if an oncoming vehicle's headlights dazzle you, you should -",
+        "options": [
+            "Slow down, until your eyes recover.",
+            "Watch the centre line of the road.",
+            "Close your eyes for a short time until they recover."
+        ],
+        "answer": 0,
+        "top": 325.97772,
+        "image": null
+    },
+    {
+        "id": "FD004",
+        "question": "If you get sleepy while driving, it is best to -",
+        "options": [
+            "Stop, rest, and change drivers if possible.",
+            "Turn on the radio very loud.",
+            "Turn on the air conditioning or open the windows."
+        ],
+        "answer": 0,
+        "top": 445.85772,
+        "image": null
+    },
+    {
+        "id": "FD005",
+        "question": "In wet weather when it becomes hard for you to see, you should -",
+        "options": [
+            "Turn on your headlights, slow down, and double your following distance behind the vehicle in front.",
+            "Turn your headlights on high beam.",
+            "Flash your headlights to warn other drivers. 21"
+        ],
+        "answer": 0,
+        "top": 565.61772,
+        "image": null
+    },
+    {
+        "id": "FD006",
+        "question": "If you are driving and it starts to rain, you should -",
+        "options": [
+            "Slow down using the brake gently, since rain and oil may create a slippery surface.",
+            "Put your lights on high beam so you can see better.",
+            "Put your hazard warning lights on and increase your speed to avoid the rain."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "FD007",
+        "question": "When driving on a slippery wet road, for example, one covered in early morning dew, your vehicle will -",
+        "options": [
+            "Take longer and further to stop.",
+            "Be heavier to steer.",
+            "Be easier to steer and handle."
+        ],
+        "answer": 0,
+        "top": 207.2977199999999,
+        "image": null
+    },
+    {
+        "id": "FD010",
+        "question": "Why should you avoid heavy braking on a wet road?",
+        "options": [
+            "Your wheels may skid and cause a loss of control.",
+            "If the wheels lock up your handbrake may not work.",
+            "You might wet pedestrians walking along the footpath."
+        ],
+        "answer": 0,
+        "top": 338.57771999999994,
+        "image": null
+    },
+    {
+        "id": "FD011",
+        "question": "At night you should -",
+        "options": [
+            "Leave a longer gap behind the vehicle in front.",
+            "Use your hazard warning lights when overtaking another vehicle.",
+            "Drive closer to the vehicle in front so they can see you better."
+        ],
+        "answer": 0,
+        "top": 458.57771999999994,
+        "image": null
+    },
+    {
+        "id": "FD013",
+        "question": "When going on a long trip, out of the following which is the most important to do?",
+        "options": [
+            "Get plenty of rest before starting out.",
+            "Make sure your horn is working.",
+            "Have a good meal before driving. 22"
+        ],
+        "answer": 0,
+        "top": 578.4577199999999,
+        "image": null
+    },
+    {
+        "id": "FD014",
+        "question": "At night, when you approach an oncoming vehicle, you should -",
+        "options": [
+            "Not look at its headlights, but keep left and watch the left of the road.",
+            "Carefully watch the vehicle by looking directly at its headlights.",
+            "Put your lights on high beam, to make your vehicle more easily seen."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "FD039",
+        "question": "To help prevent fatigue when riding you should -",
+        "options": [
+            "Dress to protect yourself fully from wind, heat, cold and rain and not ride any longer than two hours at a time.",
+            "Stop and rest at least every four hours.",
+            "Ride in short sleeves shirt with no gloves to allow the wind to keep you awake. MRH"
+        ],
+        "answer": 0,
+        "top": 207.2977199999999,
+        "image": null
+    },
+    {
+        "id": "FD040",
+        "question": "What should you do if you have difficulty concentrating when riding?",
+        "options": [
+            "Stop immediately and rest.",
+            "Ride without gloves and in a short sleeves shirt to allow the wind on your body to help you concentrate.",
+            "Constantly change your speed up and down to help you concentrate on what you are doing. 23"
+        ],
+        "answer": 0,
+        "top": 342.4177199999999,
+        "image": null
+    },
+    {
+        "id": "IN001",
+        "question": "As you approach an intersection, you should check for traffic on your left and right -",
+        "options": [
+            "At all times before entering the intersection.",
+            "Only when the traffic is heavy.",
+            "Only when you approach a stop sign."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "IN003",
+        "question": "When making a right-hand turn at the intersection shown, you must give way to -",
+        "options": [
+            "An oncoming vehicle going straight ahead or turning left and any vehicle on your right.",
+            "A vehicle approaching from your left and intending to turn right.",
+            "Only pedestrians."
+        ],
+        "answer": 0,
+        "top": 217.61771999999996,
+        "image": "q_IN003.png"
+    },
+    {
+        "id": "IN004",
+        "question": "If turning right at a T-intersection (as shown) must you give way to vehicles approaching from both the left and right?",
+        "options": [
+            "Yes, whether they are turning or not.",
+            "No, only the vehicle on the right.",
+            "No, you have right of way."
+        ],
+        "answer": 0,
+        "top": 421.01771999999994,
+        "image": "q_IN004.png"
+    },
+    {
+        "id": "IN005",
+        "question": "If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?",
+        "options": [
+            "Yes, it has the same meaning as the sign itself.",
+            "No, but you must give way if turning.",
+            "No, you only need to give way to the vehicle on your right. 24"
+        ],
+        "answer": 0,
+        "top": 624.53772,
+        "image": null
+    },
+    {
+        "id": "IN006",
+        "question": "If turning at an intersection are you required to give way to pedestrians?",
+        "options": [
+            "Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision",
+            "Yes, only if turning left.",
+            "Yes, only if turning right."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_IN006.png"
+    },
+    {
+        "id": "IN007",
+        "question": "When you come to an intersection and the road beyond is choked with vehicles going in the same direction, what should you do?",
+        "options": [
+            "Wait until there is room for you to completely cross the intersection.",
+            "Proceed if there is no traffic on your right.",
+            "Travel into the intersection and wait until traffic ahead moves."
+        ],
+        "answer": 0,
+        "top": 255.1777199999999,
+        "image": "q_IN007.png"
+    },
+    {
+        "id": "IN008",
+        "question": "Right-turns must be made from which lanes when travelling on a laned roadway?",
+        "options": [
+            "The far right-hand lane or any other lane having an arrow pointing right.",
+            "The lane carrying the least amount of traffic.",
+            "The far left-hand lane. 25"
+        ],
+        "answer": 0,
+        "top": 454.9777199999999,
+        "image": null
+    },
+    {
+        "id": "IN010",
+        "question": "In this diagram both vehicles O and P must pass through GIVE WAY signs before entering the intersection. Which vehicle goes first?",
+        "options": [
+            "Vehicle P.",
+            "Vehicle O.",
+            "It depends on who moves first."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_IN010.png"
+    },
+    {
+        "id": "IN011",
+        "question": "Vehicle O is at a STOP sign -",
+        "options": [
+            "Vehicle O must give way to vehicles P, Q and R.",
+            "Vehicle O must give way only to vehicle R.",
+            "All vehicles must give way to vehicle O."
+        ],
+        "answer": 0,
+        "top": 272.21772,
+        "image": "q_IN011.png"
+    },
+    {
+        "id": "IN012",
+        "question": "If both vehicles P and O in the diagram are turning right, which vehicle is in the best position to turn left into the street marked 'X'?",
+        "options": [
+            "Vehicle O.",
+            "Vehicle P.",
+            "Neither vehicle."
+        ],
+        "answer": 0,
+        "top": 454.13771999999994,
+        "image": "q_IN012.png"
+    },
+    {
+        "id": "IN013",
+        "question": "The diagram shows a marked pedestrian crossing at an intersection. There is also a STOP sign at the intersection. You have already stopped for a pedestrian. Must you stop again at the STOP line?",
+        "options": [
+            "Yes, at all times.",
+            "Yes, if there is traffic on your right only.",
+            "No, if the intersection is clear. 26"
+        ],
+        "answer": 0,
+        "top": 619.25772,
+        "image": "q_IN013.png"
+    },
+    {
+        "id": "IN014",
+        "question": "A GIVE WAY sign at an intersection means that you must -",
+        "options": [
+            "Be ready to stop and give way to all other traffic if there is danger of a collision.",
+            "Stop completely at all times and have no right of way.",
+            "Slow down and only give way to traffic on your right."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_IN014.png"
+    },
+    {
+        "id": "IN016",
+        "question": "Which vehicle in the diagram must give way?",
+        "options": [
+            "Vehicle J.",
+            "Vehicle K.",
+            "Vehicle L."
+        ],
+        "answer": 0,
+        "top": 270.4177199999999,
+        "image": "q_IN016.png"
+    },
+    {
+        "id": "IN018",
+        "question": "You want to make a left turn. You must use your left-hand indicator -",
+        "options": [
+            "At all times.",
+            "Only when there is traffic behind you.",
+            "Only when arrows are marked on the roadway."
+        ],
+        "answer": 0,
+        "top": 467.69771999999995,
+        "image": null
+    },
+    {
+        "id": "IN019",
+        "question": "At the T-intersection shown in the diagram which vehicle should give way?",
+        "options": [
+            "Vehicle R.",
+            "Vehicle Q.",
+            "Whichever vehicle got there last. 27"
+        ],
+        "answer": 0,
+        "top": 584.33772,
+        "image": "q_IN019.png"
+    },
+    {
+        "id": "IN020",
+        "question": "You wish to make a right-hand turn from a ONE WAY STREET with no arrows marked on the roadway. You should position your vehicle -",
+        "options": [
+            "On the right-hand side of the street.",
+            "In the middle of the street.",
+            "On the left-hand side of the street."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "IN023",
+        "question": "When there are no arrows marked on the road, left turns must be made from -",
+        "options": [
+            "The far left-hand side of the road.",
+            "The middle of the road.",
+            "Either side of the road."
+        ],
+        "answer": 0,
+        "top": 217.73771999999997,
+        "image": null
+    },
+    {
+        "id": "IN026",
+        "question": "What should you do on approaching a railway level crossing displaying a STOP sign?",
+        "options": [
+            "Stop at all times and proceed when safe to do so.",
+            "Slow down to 10 km/h, then proceed through the crossing.",
+            "Stop, only if a train is at the crossing. 28"
+        ],
+        "answer": 0,
+        "top": 357.29771999999997,
+        "image": "q_IN026.png"
+    },
+    {
+        "id": "IN027",
+        "question": "You are driving the car in the diagram. You must stop -",
+        "options": [
+            "Even when there is no other traffic.",
+            "Only if there is a car on your right or left.",
+            "Only if there is danger of a collision with another vehicle."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_IN027.png"
+    },
+    {
+        "id": "IN028",
+        "question": "If the boomgates are down and the signals are flashing, at a railway level crossing, you may begin to cross -",
+        "options": [
+            "Only when the gate is up and the lights stop flashing.",
+            "If you cannot see a train approaching.",
+            "If you can safely go around the closed gate."
+        ],
+        "answer": 0,
+        "top": 256.85772,
+        "image": null
+    },
+    {
+        "id": "IN029",
+        "question": "When approaching a railway level crossing displaying this sign, you must -",
+        "options": [
+            "Slow down, look both ways for trains and be prepared to stop if necessary.",
+            "Increase your speed to avoid any approaching trains.",
+            "Continue across at normal speed, do not slow down. RUH"
+        ],
+        "answer": 0,
+        "top": 399.6577199999999,
+        "image": "q_IN029.png"
+    },
+    {
+        "id": "IN030",
+        "question": "Even if the signal at a railway level crossing does not indicate that a train is coming, you should -",
+        "options": [
+            "Slow down, be ready to stop and give way if there is danger of collision.",
+            "Speed up and cross the tracks quickly.",
+            "Stop completely at all times. 29"
+        ],
+        "answer": 0,
+        "top": 605.09772,
+        "image": "q_IN030.png"
+    },
+    {
+        "id": "IN035",
+        "question": "You approach an intersection in busy traffic and want to go straight ahead. The traffic lights turn green. When are you permitted to enter the intersection?",
+        "options": [
+            "Only when there is room for your vehicle on the other side.",
+            "Immediately after the traffic lights turn green.",
+            "When the vehicle behind signals you to go. RUH"
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_IN035.png"
+    },
+    {
+        "id": "IN039",
+        "question": "Which statement is correct?",
+        "options": [
+            "Red light cameras take photographs of vehicles that enter intersections when the lights are red.",
+            "Red light cameras take photographs of vehicles that speed through intersections.",
+            "Red light cameras take photographs of vehicles that cross intersections when the lights are yellow."
+        ],
+        "answer": 0,
+        "top": 257.9377199999999,
+        "image": null
+    },
+    {
+        "id": "IN040",
+        "question": "As you drive into an intersection, the lights turn to yellow. You should -",
+        "options": [
+            "Continue through the intersection.",
+            "Accelerate as hard as you can.",
+            "Brake immediately to a stop."
+        ],
+        "answer": 0,
+        "top": 402.17771999999997,
+        "image": "q_IN040.png"
+    },
+    {
+        "id": "IN044",
+        "question": "You drive up to an intersection with a stop sign. There is no painted stop line. Where should you stop?",
+        "options": [
+            "Before coming to and as near to the intersection as possible.",
+            "At least five metres before the intersection.",
+            "At the point where you can see clearly in both directions. 30"
+        ],
+        "answer": 0,
+        "top": 587.81772,
+        "image": "q_IN044.png"
+    },
+    {
+        "id": "IN051",
+        "question": "When police officers are at intersections giving directions you must -",
+        "options": [
+            "Always follow any instruction they give you.",
+            "Drive through the intersection as you normally would.",
+            "Wait for the traffic lights to start working again."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "IN056",
+        "question": "You wish to turn left at this roundabout. Which lane may you use?",
+        "options": [
+            "Left lane.",
+            "Right lane.",
+            "Either lane."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": "q_IN056.png"
+    },
+    {
+        "id": "IN057",
+        "question": "You are in the right hand lane and are planning to go straight ahead through this roundabout. When should you signal left to exit the roundabout?",
+        "options": [
+            "After point O.",
+            "After point N.",
+            "After point M."
+        ],
+        "answer": 0,
+        "top": 392.21771999999993,
+        "image": "q_IN057.png"
+    },
+    {
+        "id": "IN058",
+        "question": "When you wish to turn left at a roundabout you indicate -",
+        "options": [
+            "Left from start to finish.",
+            "Only if you think it necessary.",
+            "Left only after you enter the roundabout. 31"
+        ],
+        "answer": 0,
+        "top": 576.1777199999999,
+        "image": "q_IN058.png"
+    },
+    {
+        "id": "IN059",
+        "question": "You wish to go straight ahead at this roundabout. Which statement is true?",
+        "options": [
+            "You must leave the roundabout in the same lane as you entered.",
+            "You must enter in the right lane and leave in the left.",
+            "You must always leave the roundabout in the left lane."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_IN059.png"
+    },
+    {
+        "id": "IN060",
+        "question": "You want to turn left at this roundabout. Which lane must you use?",
+        "options": [
+            "Lane A.",
+            "Lane B.",
+            "Either lane."
+        ],
+        "answer": 0,
+        "top": 273.77771999999993,
+        "image": "q_IN060.png"
+    },
+    {
+        "id": "IN061",
+        "question": "When you wish to drive straight ahead at a roundabout you may enter from either the left or right lane. As you continue around you should -",
+        "options": [
+            "Keep in the lane you entered the roundabout.",
+            "Move into another lane with least traffic.",
+            "Change lanes to get through quickly."
+        ],
+        "answer": 0,
+        "top": 416.93771999999996,
+        "image": "q_IN061.png"
+    },
+    {
+        "id": "IN062",
+        "question": "When turning left at a roundabout you should enter and leave the roundabout -",
+        "options": [
+            "In the left lane.",
+            "In the right lane.",
+            "In the lane with least traffic. 32"
+        ],
+        "answer": 0,
+        "top": 597.53772,
+        "image": "q_IN062.png"
+    },
+    {
+        "id": "IN063",
+        "question": "You wish to go straight ahead on this roundabout with two lanes. Which lane may you use?",
+        "options": [
+            "Either lane.",
+            "Left lane only.",
+            "Right lane only."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_IN063.png"
+    },
+    {
+        "id": "IN064",
+        "question": "The motorcyclist wants to travel straight ahead through this roundabout. The rider should watch out for the marked car because the car -",
+        "options": [
+            "May be leaving the roundabout.",
+            "Could be going too fast.",
+            "May stop suddenly."
+        ],
+        "answer": 0,
+        "top": 247.01771999999994,
+        "image": "q_IN064.png"
+    },
+    {
+        "id": "IN065",
+        "question": "To turn back into the same road from which you joined this roundabout you must -",
+        "options": [
+            "Stay in the right lane all the way round.",
+            "Move into the left lane to leave the roundabout.",
+            "Use the left lane all the way round."
+        ],
+        "answer": 0,
+        "top": 427.49771999999996,
+        "image": "q_IN065.png"
+    },
+    {
+        "id": "IN067",
+        "question": "The red car wants to turn right and exit the roundabout in the street indicated by an arrow. Is the car positioned in the correct lane to do this?",
+        "options": [
+            "No, the car should enter the roundabout only from the right hand lane.",
+            "Yes, the car can make the turn only from this lane.",
+            "Yes, the car can make the turn from either the left hand or the right hand lane. 33"
+        ],
+        "answer": 0,
+        "top": 0,
+        "image": null
+    },
+    {
+        "id": "IN068",
+        "question": "If you enter an intersection that is under the control of a traffic controller -",
+        "options": [
+            "Follow the directions of the controller.",
+            "Sound your horn at the traffic controller and hope they get out of your way.",
+            "Stop at the intersection and then proceed slowly."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "IN069",
+        "question": "You are at an intersection and see a pedestrian crossing the road into which you are turning. You must -",
+        "options": [
+            "Give way to the pedestrian.",
+            "Sound your horn to warn the pedestrian to get out of the way.",
+            "Swerve around the pedestrian to avoid hitting them. 34"
+        ],
+        "answer": 0,
+        "top": 194.57772,
+        "image": null
+    },
+    {
+        "id": "LD001",
+        "question": "How should you merge with traffic when entering a freeway?",
+        "options": [
+            "Watch for a gap and merge with the traffic at the speed it is travelling.",
+            "Speed up and force your way into the traffic.",
+            "Stop, then enter the traffic quickly."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "LD002",
+        "question": "Which movements shown in the diagram can legally be made by the driver of the purple car?",
+        "options": [
+            "O and P only.",
+            "P only.",
+            "O, P and Q."
+        ],
+        "answer": 0,
+        "top": 230.33772,
+        "image": "q_LD002.png"
+    },
+    {
+        "id": "LD003",
+        "question": "Which movements shown in the diagram can legally be made by the driver of the purple car?",
+        "options": [
+            "O, P and Q.",
+            "O and P only.",
+            "P only."
+        ],
+        "answer": 0,
+        "top": 416.0977199999999,
+        "image": "q_LD003.png"
+    },
+    {
+        "id": "LD004",
+        "question": "Which movements shown in the diagram can legally be made by the driver of the purple car?",
+        "options": [
+            "O and P only.",
+            "P only.",
+            "O, P and Q. 35"
+        ],
+        "answer": 0,
+        "top": 599.45772,
+        "image": "q_LD004.png"
+    },
+    {
+        "id": "LD005",
+        "question": "Double unbroken dividing lines are marked on a roadway. You may -",
+        "options": [
+            "Cross them to turn into a driveway or property, if it is safe to do so.",
+            "Cross them to overtake a car ahead if it is safe to do so.",
+            "Cross them to make a U turn."
+        ],
+        "answer": 0,
+        "top": 97.73771999999997,
+        "image": null
+    },
+    {
+        "id": "LD007",
+        "question": "A section of road is marked with double unbroken dividing lines as in the diagram. When is a vehicle allowed to cross these lines?",
+        "options": [
+            "To enter or leave a street or driveway.",
+            "To overtake a slow vehicle ahead.",
+            "When there is no traffic coming the other way."
+        ],
+        "answer": 0,
+        "top": 263.69782,
+        "image": "q_LD007.png"
+    },
+    {
+        "id": "LD009",
+        "question": "When driving in traffic lanes (as shown in the diagram), you may change your lane -",
+        "options": [
+            "Only when it is safe to do so.",
+            "Without looking, provided you use your indicator",
+            "Provided you sound your horn to warn other drivers 36"
+        ],
+        "answer": 0,
+        "top": 467.57771999999994,
+        "image": "q_LD009.png"
+    },
+    {
+        "id": "LD010",
+        "question": "When two lanes merge into one (as shown in the diagram), who should give way?",
+        "options": [
+            "The vehicle which has to cross the lane line.",
+            "The faster vehicle.",
+            "The vehicle in the right-hand lane because it is overtaking."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_LD010.png"
+    },
+    {
+        "id": "LD011",
+        "question": "Looking at the diagram, which vehicle must give way?",
+        "options": [
+            "Vehicle B.",
+            "Vehicle A.",
+            "Either vehicle, there is no rule on giving way when merging."
+        ],
+        "answer": 0,
+        "top": 231.2977199999999,
+        "image": "q_LD011.png"
+    },
+    {
+        "id": "LD013",
+        "question": "You must use your indicator lights when -",
+        "options": [
+            "Changing lanes or turning left or right.",
+            "Approaching a curve.",
+            "Double parking."
+        ],
+        "answer": 0,
+        "top": 445.01771999999994,
+        "image": null
+    },
+    {
+        "id": "LD014",
+        "question": "If you hear the siren of an emergency vehicle, you must -",
+        "options": [
+            "Take whatever action is necessary (with safety) to make way for the emergency vehicle.",
+            "Flash your headlights to warn other drivers.",
+            "Increase your speed to avoid the vehicle. 37"
+        ],
+        "answer": 0,
+        "top": 590.57772,
+        "image": null
+    },
+    {
+        "id": "LD017",
+        "question": "When the road is marked this way are you permitted to cross the lines and overtake?",
+        "options": [
+            "No.",
+            "Yes.",
+            "Yes, only if the way ahead is clear."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_LD017.png"
+    },
+    {
+        "id": "LD033",
+        "question": "What does this sign mean?",
+        "options": [
+            "There is a lane just for light rail vehicles.",
+            "You are approaching a lane that is only for buses.",
+            "Slow down and prepare to stop for a train."
+        ],
+        "answer": 0,
+        "top": 248.9377199999999,
+        "image": null
+    },
+    {
+        "id": "LD041",
+        "question": "When driving on a multi-lane road with a speed limit of more than 80 km/h, which lane should you choose?",
+        "options": [
+            "The left lane unless overtaking.",
+            "The right lane to avoid slow moving vehicles.",
+            "Either left or right lane."
+        ],
+        "answer": 0,
+        "top": 393.05771999999996,
+        "image": null
+    },
+    {
+        "id": "LD043",
+        "question": "Signalling is -",
+        "options": [
+            "Always required before turning or lane changing.",
+            "Not required when turning at T-intersections.",
+            "Not required when turning at traffic lights with a green arrow. 38"
+        ],
+        "answer": 0,
+        "top": 558.7777199999999,
+        "image": null
+    },
+    {
+        "id": "LD044",
+        "question": "How should you merge with traffic when entering a motorway?",
+        "options": [
+            "Watch for a gap and increase your speed to safely merge with the traffic.",
+            "Slow down and force your way into the traffic.",
+            "Stop, then enter the traffic quickly. A poorly loaded vehicle is unsafe to drive. To avoid loss of steering and loss of traction under power, you should -"
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "ND002",
+        "question": "When driving near parked vehicles, you should -",
+        "options": [
+            "Check for parked vehicles with turn signals on, or children about to step out.",
+            "Stop, if you see a car with its right-hand indicator on.",
+            "Sound your horn and flash your headlights to warn drivers not to pull out."
+        ],
+        "answer": 0,
+        "top": 256.73771999999997,
+        "image": null
+    },
+    {
+        "id": "ND004",
+        "question": "You are approaching a hill or curve. You must not cross the centre line to overtake -",
+        "options": [
+            "If you do not have a clear view of any approaching traffic.",
+            "If you cannot see clear road ahead for 100 metres.",
+            "If you cannot see clear road ahead for 75 metres."
+        ],
+        "answer": 0,
+        "top": 409.13771999999994,
+        "image": null
+    },
+    {
+        "id": "ND005",
+        "question": "You are approaching the crest (top of a hill) on a narrow road, the safest procedure is to -",
+        "options": [
+            "Keep to the left and slow down.",
+            "Flash your headlights to warn oncoming traffic.",
+            "Increase your speed and sound your horn. 39"
+        ],
+        "answer": 0,
+        "top": 548.6977199999999,
+        "image": null
+    },
+    {
+        "id": "ND007",
+        "question": "On a single laned road (as shown), you must always overtake another vehicle on its right except when -",
+        "options": [
+            "The other vehicle is turning right.",
+            "You are travelling at more than 80 km/h.",
+            "The other vehicle is going slower than you."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_ND007.png"
+    },
+    {
+        "id": "ND008",
+        "question": "When overtaking another vehicle you should NOT move back in front of it, unless –",
+        "options": [
+            "You can see the overtaken vehicle in your rear vision mirror.",
+            "An oncoming car appears over a hill.",
+            "The driver of the vehicle signals it is safe to do so."
+        ],
+        "answer": 0,
+        "top": 356.93771999999996,
+        "image": null
+    },
+    {
+        "id": "ND009",
+        "question": "A driver behind you signals their intention to overtake your car. What should you do?",
+        "options": [
+            "Keep to the left and let that driver overtake you.",
+            "Speed up so that the driver will not have to overtake.",
+            "Signal the driver to remain behind you if it is travelling too fast."
+        ],
+        "answer": 0,
+        "top": 476.81771999999995,
+        "image": null
+    },
+    {
+        "id": "ND010",
+        "question": "The faster the vehicle in front of you is travelling, the -",
+        "options": [
+            "More distance and time you need to overtake.",
+            "Less time you need to overtake.",
+            "Closer you must get before starting to overtake. 40"
+        ],
+        "answer": 0,
+        "top": 596.57772,
+        "image": null
+    },
+    {
+        "id": "ND011",
+        "question": "If you are not sure you have enough distance to overtake a vehicle ahead, you should -",
+        "options": [
+            "Wait for a better opportunity with more distance to overtake.",
+            "Put the vehicle in a lower gear and speed up.",
+            "Sound your horn to signal the driver ahead to slow down."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "ND012",
+        "question": "When being overtaken by another vehicle what should you do to help?",
+        "options": [
+            "Keep left and allow plenty of room to let the other vehicle back in.",
+            "Brake quickly to let the other vehicle overtake.",
+            "Move to the left and stop. RUH"
+        ],
+        "answer": 0,
+        "top": 194.57772,
+        "image": null
+    },
+    {
+        "id": "ND014",
+        "question": "Before beginning to overtake another vehicle, you should -",
+        "options": [
+            "Check to see it is safe, change gear if necessary, and signal your intention before moving out.",
+            "Signal and slow down so you will have more room to overtake.",
+            "Sound your horn, move out and overtake. RUH"
+        ],
+        "answer": 0,
+        "top": 317.9377199999999,
+        "image": null
+    },
+    {
+        "id": "ND015",
+        "question": "You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You -",
+        "options": [
+            "Must let the long vehicle turn first.",
+            "May move to the left-hand side of the road and pass the long vehicle.",
+            "May pass the truck because it cannot turn left from the middle lane."
+        ],
+        "answer": 0,
+        "top": 461.34311999999994,
+        "image": "q_ND015.png"
+    },
+    {
+        "id": "ND019",
+        "question": "How should you overtake a pedal cyclist?",
+        "options": [
+            "The same as you would another car, with safety.",
+            "Drive as close as possible to the cyclist so he or she will move over and let you pass.",
+            "Sound your horn to warn the cyclist to get off the road. 41"
+        ],
+        "answer": 0,
+        "top": 615.7777199999999,
+        "image": "q_ND019.png"
+    },
+    {
+        "id": "ND020",
+        "question": "If an overtaking vehicle signals that it must move in, in front of you, you should -",
+        "options": [
+            "Prepare to slow down to allow room.",
+            "Speed up and not let the vehicle back in.",
+            "Flash your lights at the overtaking vehicle."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_ND020.png"
+    },
+    {
+        "id": "ND021",
+        "question": "The first thing you should do before overtaking is -",
+        "options": [
+            "Make sure it is safe and the way is clear of oncoming traffic.",
+            "Sound your horn.",
+            "Increase your speed."
+        ],
+        "answer": 0,
+        "top": 254.81781999999998,
+        "image": null
+    },
+    {
+        "id": "ND031",
+        "question": "You are travelling in the left lane and wish to turn right at the intersection. You move to the right lane and a driver behind sounds their horn at you. What have you done wrong?",
+        "options": [
+            "Crossed an unbroken lane line.",
+            "Driven too slowly.",
+            "Changed lanes unnecessarily. 42"
+        ],
+        "answer": 0,
+        "top": 374.57771999999994,
+        "image": "q_ND031.png"
+    },
+    {
+        "id": "ND032",
+        "question": "What is this driver doing that is negligent and illegal?",
+        "options": [
+            "Crossing an unbroken line at a curve.",
+            "Not signalling to change lanes.",
+            "Overtaking on the kerb side."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_ND032.png"
+    },
+    {
+        "id": "ND033",
+        "question": "RUH The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
+        "options": [
+            "Move into the left lane.",
+            "Keep your position in this lane.",
+            "Accelerate away from the other vehicle and keep driving in this lane."
+        ],
+        "answer": 0,
+        "top": 227.21844,
+        "image": "q_ND033.png"
+    },
+    {
+        "id": "ND034",
+        "question": "RUH The speed limit on this road is 100 km/h. When can you use the right lane?",
+        "options": [
+            "Only when overtaking or turning right.",
+            "Whenever you want to.",
+            "When there is no other traffic around."
+        ],
+        "answer": 0,
+        "top": 407.21507999999994,
+        "image": "q_ND034.png"
+    },
+    {
+        "id": "ND035",
+        "question": "Another vehicle is overtaking you on your right. You commit a traffic offence if you -",
+        "options": [
+            "Speed up while the other vehicle is on your right.",
+            "Keep the same speed.",
+            "Slow down while the other vehicle is on your right. 43"
+        ],
+        "answer": 0,
+        "top": 562.13772,
+        "image": null
+    },
+    {
+        "id": "ND044",
+        "question": "When you have started to overtake the car, you notice that its right indicator is flashing. You should -",
+        "options": [
+            "Check your mirror and move back in behind the car.",
+            "Accelerate quickly to get past.",
+            "Immediately brake to a stop."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_ND044.png"
+    },
+    {
+        "id": "ND045",
+        "question": "If you are caught speeding through a road work zone you will -",
+        "options": [
+            "Be liable for a speeding fine and loss of demerit points.",
+            "Receive a warning letter in the mail.",
+            "Not receive any penalty as road works speed limits are only advisory."
+        ],
+        "answer": 0,
+        "top": 286.61771999999996,
+        "image": null
+    },
+    {
+        "id": "ND046",
+        "question": "When driving through temporary road work you should -",
+        "options": [
+            "Slow down and look out for hazards.",
+            "Maintain current speed if the road is clear.",
+            "Sound your horn."
+        ],
+        "answer": 0,
+        "top": 414.6577199999999,
+        "image": null
+    },
+    {
+        "id": "ND047",
+        "question": "When entering or leaving a driveway you must -",
+        "options": [
+            "Give way to bicycles, vehicles and pedestrians.",
+            "Stop and give way only to vehicles.",
+            "Blow your horn to warn other road users."
+        ],
+        "answer": 0,
+        "top": 542.81772,
+        "image": null
+    },
+    {
+        "id": "ND048",
+        "question": "Will a P1 licence be suspended for any speeding offence?",
+        "options": [
+            "Yes.",
+            "No.",
+            "Only for 10 km/h or more over the speed limit. 44"
+        ],
+        "answer": 0,
+        "top": 651.1777199999999,
+        "image": null
+    },
+    {
+        "id": "PD001",
+        "question": "You must give way to pedestrians on a marked pedestrian crossing -",
+        "options": [
+            "If there is any danger of a collision.",
+            "When they are crossing from your right only.",
+            "When they are crossing from your left only."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "PD002",
+        "question": "When approaching a marked pedestrian crossing and no pedestrians are in sight, you should -",
+        "options": [
+            "Slow down and be ready to make a safe stop.",
+            "Come to a complete stop before the crossing.",
+            "Go faster, in case a pedestrian steps onto the crossing."
+        ],
+        "answer": 0,
+        "top": 214.49771999999996,
+        "image": "q_PD002.png"
+    },
+    {
+        "id": "PD003",
+        "question": "If elderly people or children are on a pedestrian crossing you will probably need to –",
+        "options": [
+            "Wait extra time to allow them to cross safely.",
+            "Sound your horn to hurry them up.",
+            "Drive around them so you don't hold up traffic."
+        ],
+        "answer": 0,
+        "top": 387.4177199999999,
+        "image": null
+    },
+    {
+        "id": "PD004",
+        "question": "Which sign painted on the road tells you there is a pedestrian crossing ahead?",
+        "options": [
+            "B",
+            "A",
+            "C 45"
+        ],
+        "answer": 0,
+        "top": 544.9777199999999,
+        "image": "q_PD004.png"
+    },
+    {
+        "id": "PD005",
+        "question": "A vehicle ahead of you has stopped at a pedestrian crossing. You -",
+        "options": [
+            "Must not overtake the stopped vehicle.",
+            "May overtake the vehicle if there are no pedestrians on the crossing.",
+            "May overtake the vehicle provided no cars are coming the other way."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_PD005.png"
+    },
+    {
+        "id": "PD006",
+        "question": "If you see a School Crossing Supervisor holding a sign like this, you must wait until the children -",
+        "options": [
+            "Are off the crossing and the hand held sign is taken away.",
+            "Reach the right-hand side of the crossing.",
+            "Are out of sight."
+        ],
+        "answer": 0,
+        "top": 241.49771999999996,
+        "image": "q_PD006.png"
+    },
+    {
+        "id": "PD007",
+        "question": "Which one of the following statements is correct? Bicycle riders -",
+        "options": [
+            "Must obey the road rules.",
+            "May not travel on heavy traffic roads.",
+            "Must ride against the flow of traffic so they can be seen."
+        ],
+        "answer": 0,
+        "top": 394.85772,
+        "image": null
+    },
+    {
+        "id": "PD009",
+        "question": "When driving near children playing or walking near the edge of the road, you should -",
+        "options": [
+            "Slow down, and be ready to make a safe stop.",
+            "Sound your horn to warn them of your presence.",
+            "Continue at the same speed and drive around them."
+        ],
+        "answer": 0,
+        "top": 514.61772,
+        "image": null
+    },
+    {
+        "id": "PD010",
+        "question": "Pedestrians who are affected by alcohol, are -",
+        "options": [
+            "One of the most common groups involved in road accidents.",
+            "Unlikely to walk near the road and do not require your attention.",
+            "Less dangerous than sober pedestrians because they are more careful after drinking. 46"
+        ],
+        "answer": 0,
+        "top": 634.49772,
+        "image": null
+    },
+    {
+        "id": "PD011",
+        "question": "When driving near pedestrian crossings, intersections, or school crossings, you should always -",
+        "options": [
+            "Slow down, watch for pedestrians and be ready to make a safe stop.",
+            "Move into the left lane.",
+            "Keep your eyes on the speedo."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "PD012",
+        "question": "When driving in an area where there are many pedestrians (e.g. a bus stop) it is important to -",
+        "options": [
+            "Slow down and watch for an indication that they will enter the road.",
+            "Put your headlights on high beam so they can see you better.",
+            "Increase your speed to avoid the chance of hitting them."
+        ],
+        "answer": 0,
+        "top": 194.57772,
+        "image": null
+    },
+    {
+        "id": "PD013",
+        "question": "When driving past parked vehicles, which of the following is it most important to do –",
+        "options": [
+            "Watch for pedestrians, animals and car doors opening.",
+            "Drive in the right-hand lane, if there is one.",
+            "Stay as close as possible to the vehicle in front of you."
+        ],
+        "answer": 0,
+        "top": 325.97772,
+        "image": null
+    },
+    {
+        "id": "PD014",
+        "question": "When driving in wet weather, you should -",
+        "options": [
+            "Watch out for pedestrians, who may hurry and take risks.",
+            "Drive in the middle of the road to avoid splashing pedestrians on the footpath.",
+            "Stop and help aged pedestrians across the road."
+        ],
+        "answer": 0,
+        "top": 445.73771999999997,
+        "image": null
+    },
+    {
+        "id": "PD015",
+        "question": "At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stop signal, it means -",
+        "options": [
+            "You may carefully drive through the crossing, if there is no risk of colliding with pedestrians.",
+            "The traffic lights are out of order and pedestrians must not use the crossing.",
+            "The green light is due. Do not proceed until the green light appears. 47"
+        ],
+        "answer": 0,
+        "top": 585.4177199999999,
+        "image": "q_PD015.png"
+    },
+    {
+        "id": "PD016",
+        "question": "Which statement is true?",
+        "options": [
+            "You must give way to pedestrians if there is any danger of hitting them.",
+            "Pedestrians have no special rights on the roads.",
+            "You must give way to pedestrians only at marked crossings."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_PD016.png"
+    },
+    {
+        "id": "PD017",
+        "question": "You drive towards these people on the road. What should you do?",
+        "options": [
+            "Stop and give way if there is any danger of hitting them.",
+            "Continue at the same speed and sound the horn.",
+            "Slow down until they are half way through the crossing and drive on."
+        ],
+        "answer": 0,
+        "top": 241.25771999999995,
+        "image": "q_PD017.png"
+    },
+    {
+        "id": "PD018",
+        "question": "You see these zig-zag markings on the road in front of you. What do they mean?",
+        "options": [
+            "Take care and look out for pedestrians at a crossing.",
+            "Look out for animals on the side of the road.",
+            "Be careful because the road ahead is slippery."
+        ],
+        "answer": 0,
+        "top": 415.73771999999997,
+        "image": "q_PD018.png"
+    },
+    {
+        "id": "PD019",
+        "question": "These markings on the road indicate -",
+        "options": [
+            "Places where pedestrians have special rights.",
+            "Places where you can park.",
+            "Places where special speed limits apply. 48"
+        ],
+        "answer": 0,
+        "top": 601.0177199999999,
+        "image": "q_PD019.png"
+    },
+    {
+        "id": "PD021",
+        "question": "You approach a person crossing the road. You should -",
+        "options": [
+            "Slow down or stop to avoid hitting the person.",
+            "Slow down and sound your horn to hurry up the person.",
+            "Maintain your speed and swerve around the person."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_PD021.png"
+    },
+    {
+        "id": "PD022",
+        "question": "You approach a crossing and see the scene in the picture. You should -",
+        "options": [
+            "Slow down and stop until the supervisor takes down the sign.",
+            "Slow down and drive through giving way to the children.",
+            "Stop and wait for the children until your lane is clear."
+        ],
+        "answer": 0,
+        "top": 263.21772,
+        "image": "q_PD022.png"
+    },
+    {
+        "id": "PD023",
+        "question": "At a pedestrian crossing with traffic lights, when the lights change to red you should -",
+        "options": [
+            "Stop, wait for pedestrians to cross and for the green light to come on.",
+            "Slow down and give way to pedestrians.",
+            "Stop and continue after the pedestrians have crossed."
+        ],
+        "answer": 0,
+        "top": 452.57771999999994,
+        "image": null
+    },
+    {
+        "id": "PD024",
+        "question": "This person is standing on a pedestrian refuge. If he steps out onto your lane you should -",
+        "options": [
+            "Give way to the person if there is any danger of colliding.",
+            "Slow down and sound the horn to warn the person to move back.",
+            "Maintain your speed so you do not hold up the traffic. 49"
+        ],
+        "answer": 0,
+        "top": 574.25772,
+        "image": "q_PD024.png"
+    },
+    {
+        "id": "PD025",
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "You must give way to pedestrians if there is a danger of a collision.",
+            "Pedestrians must cross the road only at marked crossings and intersections.",
+            "You do not have to give way to adults crossing at children's crossings."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_PD025.png"
+    },
+    {
+        "id": "PD026",
+        "question": "When you see children on or near the road -",
+        "options": [
+            "You should slow down and be more careful because they may move suddenly.",
+            "You should reduce your speed by 5 km/h.",
+            "You should ignore them and pay attention to the rear vision mirror."
+        ],
+        "answer": 0,
+        "top": 256.13771999999994,
+        "image": "q_PD026.png"
+    },
+    {
+        "id": "PD027",
+        "question": "When you see older people on or near the road, you should -",
+        "options": [
+            "Slow down and take extra care because they may not see you until you are very close.",
+            "Drive around them to keep the traffic moving.",
+            "Sound your horn and keep going at the same speed so you do not hold up the traffic."
+        ],
+        "answer": 0,
+        "top": 452.45771999999994,
+        "image": "q_PD027.png"
+    },
+    {
+        "id": "PD028",
+        "question": "You must give way to pedestrians if there is a risk of hitting them. When driving in poor light, you should -",
+        "options": [
+            "Look more carefully for pedestrians because they are hard to see.",
+            "Keep your headlights on high beam all the time.",
+            "Always drive in the right hand lane so you can be away from pedestrians. 50"
+        ],
+        "answer": 0,
+        "top": 630.6577199999999,
+        "image": null
+    },
+    {
+        "id": "PD030",
+        "question": "You drive up to a Light Rail vehicle that has just stopped at a tram stop. What is the most important thing you should do?",
+        "options": [
+            "Take extra care, slow down and give way to the pedestrians.",
+            "Keep a look out for traffic coming in the opposite direction.",
+            "Slow down, but keep moving so you do not delay other drivers."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_PD030.png"
+    },
+    {
+        "id": "RS001",
+        "question": "You are approaching the intersection shown, and an on-coming vehicle is signalling to turn right, you should –",
+        "options": [
+            "Move towards the left of your lane and slow down.",
+            "Proceed straight ahead at normal speed.",
+            "Stop, and let the car turn right."
+        ],
+        "answer": 0,
+        "top": 273.4177199999999,
+        "image": "q_RS001.png"
+    },
+    {
+        "id": "RS003",
+        "question": "In this diagram which light is most likely to make the motorcycle more noticeable to the car driver?",
+        "options": [
+            "The right turn indicator.",
+            "The tail-light.",
+            "The headlight on high beam. 51"
+        ],
+        "answer": 0,
+        "top": 481.13771999999994,
+        "image": "q_RS003.png"
+    },
+    {
+        "id": "RS004",
+        "question": "You are riding the motorcycle shown, what would you need to do to be able to see the car?",
+        "options": [
+            "Turn your head.",
+            "Look in the mirror.",
+            "Take off your helmet."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_RS004.png"
+    },
+    {
+        "id": "RS005",
+        "question": "In the diagram shown you are being followed very closely by another vehicle, you should -",
+        "options": [
+            "Create more space in front of you by slowing down, until it is safe for the other vehicle to pass.",
+            "Attempt to get the other vehicle to drop back by giving a hand signal.",
+            "Brake hard to force the other vehicle to drop back."
+        ],
+        "answer": 0,
+        "top": 247.25771999999995,
+        "image": "q_RS005.png"
+    },
+    {
+        "id": "RS011",
+        "question": "Properly adjusted mirrors will allow you to see -",
+        "options": [
+            "About half of the lane behind you and as much as possible of the lane beside you.",
+            "Into the lane beside you.",
+            "Only behind you."
+        ],
+        "answer": 0,
+        "top": 415.49771999999996,
+        "image": null
+    },
+    {
+        "id": "RS012",
+        "question": "Good control of your motorcycle may be achieved by -",
+        "options": [
+            "Adopting a correct relaxed riding position.",
+            "Gripping the handlebars as tightly as possible.",
+            "Sitting as far back on the seat as possible to give the rear tyre more grip. 52"
+        ],
+        "answer": 0,
+        "top": 547.9777199999999,
+        "image": null
+    },
+    {
+        "id": "RS013",
+        "question": "A good riding position should feel comfortable and allow you to -",
+        "options": [
+            "Have fast effective use of the controls without affecting the balance.",
+            "Ride faster in all traffic conditions.",
+            "Relax more and enjoy your riding."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "RS014",
+        "question": "Sitting too far back on the seat of your motorcycle will -",
+        "options": [
+            "Affect weight distribution making steering very light.",
+            "Give your rear tyre more grip for braking at speed.",
+            "Not affect the motorcycle noticeably."
+        ],
+        "answer": 0,
+        "top": 194.57772,
+        "image": null
+    },
+    {
+        "id": "RS016",
+        "question": "Sticking your knees out when cornering your motorcycle on a road -",
+        "options": [
+            "Is not a good or efficient style of riding on a road.",
+            "Is a tried and proven method of cornering.",
+            "Will make you corner faster."
+        ],
+        "answer": 0,
+        "top": 314.45772,
+        "image": null
+    },
+    {
+        "id": "RS017",
+        "question": "When approaching a turn on your motorcycle you should -",
+        "options": [
+            "Slow down before the turn and increase your speed gradually as you come out of the turn.",
+            "Leave your braking until you are in the turn so you do not lose too much speed.",
+            "Cover your brakes in case you need them while in the turn."
+        ],
+        "answer": 0,
+        "top": 434.33771999999993,
+        "image": null
+    },
+    {
+        "id": "RS019",
+        "question": "Best braking is achieved when a motorcycle is -",
+        "options": [
+            "Upright and travelling in a straight line.",
+            "Leaned over whilst cornering.",
+            "Carrying a load and travelling at the sign posted speed limit. 53"
+        ],
+        "answer": 0,
+        "top": 566.81772,
+        "image": null
+    },
+    {
+        "id": "RS020",
+        "question": "To stop a motorcycle well, you should always use -",
+        "options": [
+            "Both brakes together.",
+            "Only the front brake at high speed.",
+            "Only the rear brake at high speed."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "RS022",
+        "question": "Is it best to change gears before, during or after a turn?",
+        "options": [
+            "Before.",
+            "After.",
+            "During."
+        ],
+        "answer": 0,
+        "top": 183.1777199999999,
+        "image": null
+    },
+    {
+        "id": "RS024",
+        "question": "Riders may make themselves more noticeable to car drivers by -",
+        "options": [
+            "Wearing bright, fluorescent or contrasting coloured clothing.",
+            "Riding closely behind cars.",
+            "Riding to the side of cars at all times."
+        ],
+        "answer": 0,
+        "top": 291.4177199999999,
+        "image": null
+    },
+    {
+        "id": "RS025",
+        "question": "To make yourself more visible to oncoming vehicles during the day -",
+        "options": [
+            "Ride with your headlight on low beam.",
+            "Ride with your headlight off.",
+            "Flash your brake light every now and then."
+        ],
+        "answer": 0,
+        "top": 399.77771999999993,
+        "image": null
+    },
+    {
+        "id": "RS026",
+        "question": "When an oncoming vehicle seems ready to turn across your path as you approach it, you should -",
+        "options": [
+            "Check your mirrors, slow down and, if possible, move to your left away from the vehicle.",
+            "Keep your speed and lane position constant so the driver knows you want to go straight ahead.",
+            "Increase your speed so you can get clear of the car before it turns."
+        ],
+        "answer": 0,
+        "top": 508.01771999999994,
+        "image": null
+    },
+    {
+        "id": "RS028",
+        "question": "'Head checks' are what drivers and riders do to -",
+        "options": [
+            "See what is in their 'blind spots'.",
+            "See what is behind them.",
+            "See what is to the front side of them. 54"
+        ],
+        "answer": 0,
+        "top": 652.0177199999999,
+        "image": null
+    },
+    {
+        "id": "RS029",
+        "question": "To allow yourself time to stop when following another vehicle in dry weather you should stay at least -",
+        "options": [
+            "Three seconds behind the vehicle in front.",
+            "Two seconds behind the vehicle in front.",
+            "One car length behind the vehicle in front."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": null
+    },
+    {
+        "id": "RS030",
+        "question": "When riding past parked cars motorcycle riders should -",
+        "options": [
+            "Create sufficient space from the cars to avoid opening doors or people stepping from between the cars.",
+            "Flash the bike's headlight as a warning to anyone in or near the cars.",
+            "Be ready to sound their horn if someone should open a door or step from between the cars."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "RS031",
+        "question": "When riding on a wet or slippery road riders should -",
+        "options": [
+            "Reduce speed so that it requires less time if they need to stop.",
+            "Ride at a normal constant speed as sign posted for the area.",
+            "Ride around with their hands on the brake lever and foot on the brake pedal in case they have to stop in a hurry."
+        ],
+        "answer": 0,
+        "top": 350.21771999999993,
+        "image": null
+    },
+    {
+        "id": "RS032",
+        "question": "When a road is wet the most slippery part is likely to be -",
+        "options": [
+            "The centre of your lane.",
+            "The left side of your lane.",
+            "The right side of your lane."
+        ],
+        "answer": 0,
+        "top": 481.73771999999997,
+        "image": null
+    },
+    {
+        "id": "RS033",
+        "question": "When cornering on a wet or slippery surface riders should -",
+        "options": [
+            "Reduce the lean angle of the motorcycle so the tyres will grip better.",
+            "Sit towards the back of the motorcycle to give more grip to the rear wheel.",
+            "Lean as much as normal for the corner only be smoother on the throttle. 55"
+        ],
+        "answer": 0,
+        "top": 601.61772,
+        "image": null
+    },
+    {
+        "id": "RS034",
+        "question": "When riding a motorcycle at night you should -",
+        "options": [
+            "Reduce speed even on roads you know well as you cannot see very far ahead at night.",
+            "Ride at all times with your headlight on high beam to give you better vision.",
+            "Ride as you normally would in daytime."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "RS035",
+        "question": "An important part of observation is -",
+        "options": [
+            "Scanning.",
+            "Constantly performing head checks.",
+            "Keeping your chin up and look straight at all times."
+        ],
+        "answer": 0,
+        "top": 218.81781999999998,
+        "image": null
+    },
+    {
+        "id": "RS036",
+        "question": "The amount of time it take to react and respond to a sudden change in traffic is generally -",
+        "options": [
+            "Three seconds.",
+            "Two seconds.",
+            "Less than a second. MRH"
+        ],
+        "answer": 0,
+        "top": 350.0977199999999,
+        "image": null
+    },
+    {
+        "id": "RS038",
+        "question": "You should check your mirrors -",
+        "options": [
+            "Every few seconds so that you always know what is behind you.",
+            "Before you accelerate or brake so that you do not force people to change their speed.",
+            "Before every ride. 56"
+        ],
+        "answer": 0,
+        "top": 486.77771999999993,
+        "image": null
+    },
+    {
+        "id": "RS039",
+        "question": "When riding towards the crest of a hill, it is best to -",
+        "options": [
+            "Slow down and buffer from possible oncoming traffic.",
+            "Maintain a constant speed so that you do not confuse drivers behind you.",
+            "Change to a lower gear and apply more throttle."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "RS040",
+        "question": "Recommended additional protection for riders includes -",
+        "options": [
+            "Wearing kidney belts and back protectors.",
+            "Wearing water-proof clothing.",
+            "Wearing sunglasses under your visor."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "RS041",
+        "question": "In addition to wearing a motorcycle helmet you should -",
+        "options": [
+            "Ensure that you always wear motorcycle specific clothing.",
+            "Make sure that you also wear sunglasses for additional protection.",
+            "Wear a hair-net to help your helmet last longer."
+        ],
+        "answer": 0,
+        "top": 325.97772,
+        "image": null
+    },
+    {
+        "id": "RS042",
+        "question": "When riding on a single lane road, a motorcycle rider -",
+        "options": [
+            "Can legally use any part of the lane.",
+            "Must remain in the left of the lane at all times.",
+            "Must remain in the middle of the lane at all times."
+        ],
+        "answer": 0,
+        "top": 445.85772,
+        "image": null
+    },
+    {
+        "id": "RS043",
+        "question": "When turning you should look -",
+        "options": [
+            "In the direction you wish to go.",
+            "Down, so you can see the road immediately in front of you.",
+            "At traffic coming from behind."
+        ],
+        "answer": 0,
+        "top": 554.2177199999999,
+        "image": null
+    },
+    {
+        "id": "RS044",
+        "question": "When you see an oncoming vehicle you should -",
+        "options": [
+            "Create a buffer between you and the other vehicle.",
+            "Always slow down.",
+            "Swerve to avoid it, while braking. 57"
+        ],
+        "answer": 0,
+        "top": 662.57772,
+        "image": null
+    },
+    {
+        "id": "RS045",
+        "question": "When taking a left curve you should -",
+        "options": [
+            "Plan to finish in the left part of your lane.",
+            "Brake as late as possible to maintain your speed and balance. RUH"
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "SL007",
+        "question": "Driving faster than the maximum speed limit is -",
+        "options": [
+            "Never legally permitted.",
+            "Permitted only when passing another vehicle.",
+            "Only permitted when other vehicles are going faster than the speed limit. RUH"
+        ],
+        "answer": 0,
+        "top": 228.0577199999999,
+        "image": null
+    },
+    {
+        "id": "SL015",
+        "question": "A Shared Traffic Zone, where pedestrians and other road users can share the road safely has a speed limit of -",
+        "options": [
+            "10 Km/h.",
+            "20 Km/h.",
+            "50 Km/h. 58"
+        ],
+        "answer": 0,
+        "top": 378.6577199999999,
+        "image": null
+    },
+    {
+        "id": "SL025",
+        "question": "What could be the penalties for driving over the speed limit -",
+        "options": [
+            "Fines, demerit points and possibly loss of licence.",
+            "Fines only.",
+            "A letter of warning and a small fine."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": null
+    },
+    {
+        "id": "SL028",
+        "question": "Where there are no speed limit signs, the speed limit is 100 km/h, unless -",
+        "options": [
+            "There are street lights along the road.",
+            "The road you are driving on is gravel.",
+            "There's an emergency, which mean speed limits don't apply."
+        ],
+        "answer": 0,
+        "top": 206.09771999999998,
+        "image": null
+    },
+    {
+        "id": "SL030",
+        "question": "When you see this sign you must -",
+        "options": [
+            "Not exceed 40 km/h and keep a special lookout for bicycle riders, pedestrians and children.",
+            "Only enter the street if you live in the local zone.",
+            "Drive at a speed less than 40 km/h if you are not a resident of the local zone."
+        ],
+        "answer": 0,
+        "top": 325.97772,
+        "image": "q_SL030.png"
+    },
+    {
+        "id": "SL031",
+        "question": "This sign means you must -",
+        "options": [
+            "Share this road with other people and vehicles and not exceed 10 km/h.",
+            "Drive at 10 km/h if there are pedestrians around.",
+            "Reduce your speed to what you think is safe but never below 10 km/h."
+        ],
+        "answer": 0,
+        "top": 493.01771999999994,
+        "image": "q_SL031.png"
+    },
+    {
+        "id": "SL035",
+        "question": "If you are driving along the highway and come across road works with a reduced speed zone, you must -",
+        "options": [
+            "Slow down to the new speed limit.",
+            "Drive through the road works zone as fast as you can to get past it.",
+            "Drive at the same speed as other vehicles. 59"
+        ],
+        "answer": 0,
+        "top": 640.25772,
+        "image": null
+    },
+    {
+        "id": "TL001",
+        "question": "You are facing traffic lights (as shown). What do they mean?",
+        "options": [
+            "You may proceed only in the direction of the green arrow.",
+            "You may proceed only in the direction of the green arrow when the red light has changed to green.",
+            "You must give way to oncoming traffic."
+        ],
+        "answer": 0,
+        "top": 97.73771999999997,
+        "image": "q_TL001.png"
+    },
+    {
+        "id": "TL002",
+        "question": "RUH At traffic lights what is meant when a red light appears?",
+        "options": [
+            "Stop, wait behind the stop line until the lights change to green.",
+            "Stop, wait behind the stop line until the lights change to yellow.",
+            "Stop, make sure there is no traffic, then drive straight ahead."
+        ],
+        "answer": 0,
+        "top": 249.41771999999992,
+        "image": "q_TL002.png"
+    },
+    {
+        "id": "TL003",
+        "question": "What should you do when approaching traffic lights which change from green to yellow?",
+        "options": [
+            "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident.",
+            "Speed up to clear the intersection before the lights change to red.",
+            "Stop, only if a red light camera is in use."
+        ],
+        "answer": 0,
+        "top": 441.17771999999997,
+        "image": "q_TL003.png"
+    },
+    {
+        "id": "TL004",
+        "question": "What may you do at an intersection with traffic lights at which this sign is displayed?",
+        "options": [
+            "If the lights are red you must first stop, then you may turn left if it is safe to do so.",
+            "You should slow down and check if anyone is coming before turning left.",
+            "You may turn left only if a green arrow is shown. 60"
+        ],
+        "answer": 0,
+        "top": 613.25772,
+        "image": "q_TL004.png"
+    },
+    {
+        "id": "TL005",
+        "question": "Are you permitted to make a U-Turn at traffic lights? − No, unless there is a U-TURN PERMITTED sign at the intersection. − Yes, at all times. − Yes, if there is no danger of colliding with another vehicle.",
+        "options": [],
+        "answer": 0,
+        "top": 97.73771999999997,
+        "image": null
+    },
+    {
+        "id": "TL006",
+        "question": "These lights mean that you -",
+        "options": [
+            "Can turn left, but not go straight ahead.",
+            "Can turn left or go straight ahead.",
+            "Can turn left only if a sign 'TURN LEFT AT ANY TIME WITH CARE' is displayed."
+        ],
+        "answer": 0,
+        "top": 233.9377199999999,
+        "image": "q_TL006.png"
+    },
+    {
+        "id": "TL007",
+        "question": "This light means, you -",
+        "options": [
+            "Can go straight ahead, or turn left or turn right, if it is safe to do so.",
+            "Must stop and wait for the red light before proceeding.",
+            "Can make a U turn provided it is safe to do so."
+        ],
+        "answer": 0,
+        "top": 409.01771999999994,
+        "image": "q_TL007.png"
+    },
+    {
+        "id": "TL008",
+        "question": "It is 3 o'clock in the morning. You cannot see any other traffic. You want to turn right. You may -",
+        "options": [
+            "Not turn right while the arrow is red.",
+            "Turn right when you have waited one minute.",
+            "Turn right if it is safe to do so. 61"
+        ],
+        "answer": 0,
+        "top": 582.7777199999999,
+        "image": "q_TL008.png"
+    },
+    {
+        "id": "TL010",
+        "question": "As you approach an intersection with traffic lights, the yellow light turns to red. You must -",
+        "options": [
+            "Stop and wait for the green light.",
+            "Speed up to avoid traffic from the left and right.",
+            "Sound your horn and proceed through the red light."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_TL010.png"
+    },
+    {
+        "id": "TL011",
+        "question": "You approach an intersection showing a red light and the sign shown. You wish to turn left. You must -",
+        "options": [
+            "Stop and turn left only if it is safe.",
+            "Stop and wait for a green light.",
+            "Slow down and turn left or right if it is safe."
+        ],
+        "answer": 0,
+        "top": 234.0577199999999,
+        "image": "q_TL011.png"
+    },
+    {
+        "id": "TL013",
+        "question": "You are waiting at an intersection and the lights are red. The traffic lights change to green. You should -",
+        "options": [
+            "Check both sides of the intersection and then proceed.",
+            "Cross the intersection as quickly as possible.",
+            "Wait until the traffic behind you makes you move."
+        ],
+        "answer": 0,
+        "top": 416.45771999999994,
+        "image": "q_TL013.png"
+    },
+    {
+        "id": "TL014",
+        "question": "You want to turn right at an intersection and see this traffic light. You should -",
+        "options": [
+            "Stay behind the stop line until the green arrow shows.",
+            "Move forward slowly.",
+            "Enter the intersection and wait for the green arrow. 62"
+        ],
+        "answer": 0,
+        "top": 609.1777199999999,
+        "image": "q_TL014.png"
+    },
+    {
+        "id": "TL015",
+        "question": "You wish to turn left at this intersection. The traffic lights are red and you see this sign. You should -",
+        "options": [
+            "Stop, then if you see it is safe turn left.",
+            "Stop until the light turns green.",
+            "Stop then go straight ahead."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_TL015.png"
+    },
+    {
+        "id": "TL016",
+        "question": "You wish to turn left at this intersection and the traffic lights are green. What should you do?",
+        "options": [
+            "Wait behind the stop line until there is room for you to enter the new road.",
+            "Move forward slowly, make the left turn and wait behind car A.",
+            "Enter the intersection and sound the horn."
+        ],
+        "answer": 0,
+        "top": 240.65771999999993,
+        "image": "q_TL016.png"
+    },
+    {
+        "id": "TL017",
+        "question": "As you approach a set of traffic lights at an intersection, they change from green to yellow (amber). You must -",
+        "options": [
+            "Stop before the lights, unless you are so close that sudden braking might cause an accident.",
+            "Drive through the intersection without accelerating.",
+            "Accelerate to clear the intersection before the lights change to red."
+        ],
+        "answer": 0,
+        "top": 398.0977199999999,
+        "image": "q_TL017.png"
+    },
+    {
+        "id": "TL018",
+        "question": "Temporary traffic lights at road works -",
+        "options": [
+            "Must be obeyed.",
+            "Apply to road works vehicles only.",
+            "Are installed to warn motorists of construction works. 63"
+        ],
+        "answer": 0,
+        "top": 580.61772,
+        "image": "q_TL018.png"
+    },
+    {
+        "id": "TL019",
+        "question": "Where do you stop at temporary traffic lights?",
+        "options": [
+            "At the ‘Stop here on red signal’ sign.",
+            "Where the lane ends.",
+            "After the traffic lights, but before the construction zone. 64"
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_TL019.png"
+    },
+    {
+        "id": "SI001",
+        "question": "When you see this sign you should -",
+        "options": [
+            "Not drive beyond the sign.",
+            "Drive with caution.",
+            "Not pass another vehicle."
+        ],
+        "answer": 0,
+        "top": 127.73771999999997,
+        "image": "q_SI001.png"
+    },
+    {
+        "id": "SI002",
+        "question": "This sign means you should -",
+        "options": [
+            "Pass to the left of the sign.",
+            "Turn left at next street.",
+            "Drive carefully, roundabout ahead."
+        ],
+        "answer": 0,
+        "top": 288.0577199999999,
+        "image": "q_SI002.png"
+    },
+    {
+        "id": "SI003",
+        "question": "What does this sign mean?",
+        "options": [
+            "All right lane traffic must turn right at the next intersection.",
+            "Right lane traffic may turn right or go straight ahead at the next intersection.",
+            "One way traffic ahead."
+        ],
+        "answer": 0,
+        "top": 436.97759999999994,
+        "image": "q_SI003.png"
+    },
+    {
+        "id": "SI004",
+        "question": "What does this sign mean?",
+        "options": [
+            "Traffic travels in each direction.",
+            "No turns permitted.",
+            "Double lane bridge ahead. 65"
+        ],
+        "answer": 0,
+        "top": 597.29772,
+        "image": "q_SI004.png"
+    },
+    {
+        "id": "SI006",
+        "question": "What does this sign mean?",
+        "options": [
+            "You must not turn to the right.",
+            "You may turn to the right.",
+            "You must give way to traffic on your right."
+        ],
+        "answer": 0,
+        "top": 74.69771999999989,
+        "image": "q_SI006.png"
+    },
+    {
+        "id": "SI007",
+        "question": "What does this sign mean?",
+        "options": [
+            "You must not turn to the left.",
+            "You must not turn to the left or the right.",
+            "You must not turn to the right."
+        ],
+        "answer": 0,
+        "top": 246.77771999999993,
+        "image": "q_SI007.png"
+    },
+    {
+        "id": "SI008",
+        "question": "What does this sign mean?",
+        "options": [
+            "All traffic must travel in the direction of the arrow.",
+            "Follow the arrow unless you are turning right.",
+            "Road curves to the left ahead."
+        ],
+        "answer": 0,
+        "top": 418.61771999999996,
+        "image": "q_SI008.png"
+    },
+    {
+        "id": "SI009",
+        "question": "What does this sign mean?",
+        "options": [
+            "You may travel only in the direction in which the arrow is pointing.",
+            "No left turn.",
+            "One lane bridge ahead, slow down. 66"
+        ],
+        "answer": 0,
+        "top": 583.13772,
+        "image": "q_SI009.png"
+    },
+    {
+        "id": "SI013",
+        "question": "What does this sign mean?",
+        "options": [
+            "You are not to exceed 60 km/h.",
+            "You can go faster than 60 km/h.",
+            "You are on Highway 60."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI013.png"
+    },
+    {
+        "id": "SI014",
+        "question": "What does this sign mean?",
+        "options": [
+            "You must not drive faster than 100 km/h.",
+            "You must drive faster than 100 km/h.",
+            "The sign applies to truck drivers only, cars can travel at any speed."
+        ],
+        "answer": 0,
+        "top": 246.65771999999993,
+        "image": "q_SI014.png"
+    },
+    {
+        "id": "SI016",
+        "question": "What does this sign mean?",
+        "options": [
+            "Drive carefully, and watch out for kangaroos entering the road for the next 30 km.",
+            "Zoo 30 km ahead.",
+            "Nature reserve 30 km ahead."
+        ],
+        "answer": 0,
+        "top": 418.49771999999996,
+        "image": "q_SI016.png"
+    },
+    {
+        "id": "SI017",
+        "question": "What does this sign mean?",
+        "options": [
+            "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left.",
+            "No through road ahead, slow down.",
+            "Tollway ahead, be prepared to stop and pay toll. 67"
+        ],
+        "answer": 0,
+        "top": 570.5377199999999,
+        "image": "q_SI017.png"
+    },
+    {
+        "id": "SI018",
+        "question": "When you see this sign you -",
+        "options": [
+            "Must not stop your vehicle at the kerb during the times shown.",
+            "Must not stop here at any time.",
+            "May stop at any time to pick up or drop off passengers."
+        ],
+        "answer": 0,
+        "top": 75.0577199999999,
+        "image": "q_SI018.png"
+    },
+    {
+        "id": "SI019",
+        "question": "You are most likely to find this sign -",
+        "options": [
+            "On the approach to a bridge which has room for only two vehicles, slow down and proceed with caution.",
+            "When a bridge is not safe to drive on.",
+            "If there is a footbridge for pedestrians ahead."
+        ],
+        "answer": 0,
+        "top": 225.65771999999993,
+        "image": "q_SI019.png"
+    },
+    {
+        "id": "SI020",
+        "question": "What does this sign mean?",
+        "options": [
+            "Road may be slippery when wet, slow down and drive carefully.",
+            "Sharp turns in the road ahead.",
+            "Road under repair, drive carefully."
+        ],
+        "answer": 0,
+        "top": 397.61771999999996,
+        "image": "q_SI020.png"
+    },
+    {
+        "id": "SI021",
+        "question": "You are most likely to find this sign -",
+        "options": [
+            "As you approach a winding road, slow down and drive with caution.",
+            "If there is a steep hill ahead.",
+            "If an unsealed road is ahead. 68"
+        ],
+        "answer": 0,
+        "top": 569.4577199999999,
+        "image": "q_SI021.png"
+    },
+    {
+        "id": "SI022",
+        "question": "What does this sign mean?",
+        "options": [
+            "A sharp depression in the road is ahead, be prepared, slow down.",
+            "Do not drive with your lights on high beam.",
+            "Police station ahead."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI022.png"
+    },
+    {
+        "id": "SI024",
+        "question": "What does this sign mean?",
+        "options": [
+            "Sharp bend to the right ahead, slow down and drive carefully.",
+            "Turn around and go back, you are going the wrong way.",
+            "No right turn allowed."
+        ],
+        "answer": 0,
+        "top": 246.65771999999993,
+        "image": "q_SI024.png"
+    },
+    {
+        "id": "SI025",
+        "question": "You are most likely to find this sign, where -",
+        "options": [
+            "Children may be crossing the road ahead, slow down and be prepared to make a safe stop.",
+            "There is an athletic field ahead.",
+            "Pedestrians are not allowed."
+        ],
+        "answer": 0,
+        "top": 418.49771999999996,
+        "image": "q_SI025.png"
+    },
+    {
+        "id": "SI026",
+        "question": "What does this sign mean?",
+        "options": [
+            "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians.",
+            "Hospital ahead, drive carefully.",
+            "Cemetery ahead. 69"
+        ],
+        "answer": 0,
+        "top": 590.45772,
+        "image": "q_SI026.png"
+    },
+    {
+        "id": "SI027",
+        "question": "If the red lights on this sign are flashing what are you required to do?",
+        "options": [
+            "Stop until red lights stop flashing then drive on if it is safe to do so.",
+            "Slow down and drive carefully over the crossing if you cannot see a train approaching.",
+            "Stop until train has passed then proceed immediately."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI027.png"
+    },
+    {
+        "id": "SI028",
+        "question": "You should expect this sign, if -",
+        "options": [
+            "A give way sign at an intersection is ahead, slow down and be prepared to stop.",
+            "You are approaching a school or playground.",
+            "You are approaching an intersection with traffic lights, be prepared to stop."
+        ],
+        "answer": 0,
+        "top": 258.1777199999999,
+        "image": "q_SI028.png"
+    },
+    {
+        "id": "SI030",
+        "question": "What does this sign mean?",
+        "options": [
+            "Slow down and beware of trucks entering from the side.",
+            "Trucks must use low gear.",
+            "Heavy vehicle checking station ahead."
+        ],
+        "answer": 0,
+        "top": 418.61771999999996,
+        "image": "q_SI030.png"
+    },
+    {
+        "id": "SI031",
+        "question": "What does this sign mean?",
+        "options": [
+            "Slow down and look out for pedestrians crossing the road ahead.",
+            "Stop and help aged pedestrians across the road.",
+            "Hospital ahead, slow down and proceed with caution. 70"
+        ],
+        "answer": 0,
+        "top": 590.57772,
+        "image": "q_SI031.png"
+    },
+    {
+        "id": "SI032",
+        "question": "What does this sign mean?",
+        "options": [
+            "Pedestrian crossing ahead, slow down and be prepared to stop.",
+            "Overhead footbridge for pedestrians ahead.",
+            "Joggers ahead, drive carefully."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI032.png"
+    },
+    {
+        "id": "SI033",
+        "question": "You should expect this sign -",
+        "options": [
+            "When a divided road ends and two way traffic is ahead.",
+            "If a one way street is ahead.",
+            "If a one lane bridge is ahead."
+        ],
+        "answer": 0,
+        "top": 246.65771999999993,
+        "image": "q_SI033.png"
+    },
+    {
+        "id": "SI035",
+        "question": "What does this sign mean?",
+        "options": [
+            "Workers ahead, slow down and be prepared to stop.",
+            "Children's playground ahead, slow down and be prepared to stop.",
+            "Do not litter."
+        ],
+        "answer": 0,
+        "top": 418.49771999999996,
+        "image": "q_SI035.png"
+    },
+    {
+        "id": "SI036",
+        "question": "What does this sign mean?",
+        "options": [
+            "Watch out for bicycle riders along the roadway or when turning.",
+            "Bicycle riders not allowed on the roadway.",
+            "You are approaching a children's playground, slow down. 71"
+        ],
+        "answer": 0,
+        "top": 590.45772,
+        "image": "q_SI036.png"
+    },
+    {
+        "id": "SI038",
+        "question": "What does this sign mean?",
+        "options": [
+            "If traffic lights are out of order or the amber light is flashing, you must stop and give way to traffic as if you are at an intersection with stop signs.",
+            "Stop, red light camera in operation.",
+            "Stop at all times and give way to all traffic."
+        ],
+        "answer": 0,
+        "top": 86.33771999999999,
+        "image": "q_SI038.png"
+    },
+    {
+        "id": "SI039",
+        "question": "What does this sign mean?",
+        "options": [
+            "Stop sign ahead, slow down and prepare to stop.",
+            "You are approaching a roundabout, prepare to give way.",
+            "One way traffic ahead."
+        ],
+        "answer": 0,
+        "top": 258.1777199999999,
+        "image": "q_SI039.png"
+    },
+    {
+        "id": "SI040",
+        "question": "What does this sign mean?",
+        "options": [
+            "Traffic controller ahead, slow down and be prepared to stop.",
+            "School children crossing the road ahead, prepare to stop.",
+            "Traffic lights out of order, Police on duty ahead."
+        ],
+        "answer": 0,
+        "top": 430.13771999999994,
+        "image": "q_SI040.png"
+    },
+    {
+        "id": "SI041",
+        "question": "What does this sign mean?",
+        "options": [
+            "Steep down-grade in the road ahead, slow down.",
+            "Road ahead slippery when wet, drive carefully.",
+            "Road under repair, slow down. 72"
+        ],
+        "answer": 0,
+        "top": 585.53772,
+        "image": "q_SI041.png"
+    },
+    {
+        "id": "SI042",
+        "question": "You should expect this sign, when -",
+        "options": [
+            "A divided road is ahead, prepare for a change in traffic conditions.",
+            "A two lane bridge is ahead, slow down and drive carefully.",
+            "Freeway conditions are ahead, maximum speed is 100 km/h."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI042.png"
+    },
+    {
+        "id": "SI043",
+        "question": "What does this sign mean?",
+        "options": [
+            "Railway level crossing with flashing signals ahead, slow down, drive carefully, and be prepared to stop.",
+            "Intersection ahead with traffic lights, prepare to stop.",
+            "Red light camera in use at traffic lights ahead."
+        ],
+        "answer": 0,
+        "top": 246.65771999999993,
+        "image": "q_SI043.png"
+    },
+    {
+        "id": "SI045",
+        "question": "What does this sign mean?",
+        "options": [
+            "Road narrows ahead, slow down and prepare for a change in traffic conditions.",
+            "Form one lane of traffic.",
+            "Merging traffic, give way to your right."
+        ],
+        "answer": 0,
+        "top": 407.0977199999999,
+        "image": "q_SI045.png"
+    },
+    {
+        "id": "SI046",
+        "question": "What does this sign mean?",
+        "options": [
+            "Vehicles are not allowed to stop at the kerb except in a medical emergency.",
+            "Vehicles must not stop at the kerb, except if picking up a passenger.",
+            "Vehicles must not stop at the kerb, unless picking up goods. 73"
+        ],
+        "answer": 0,
+        "top": 567.4177199999999,
+        "image": "q_SI046.png"
+    },
+    {
+        "id": "SI048",
+        "question": "What does this sign mean?",
+        "options": [
+            "Vehicles carrying three or more people, and motorcycles may use this lane.",
+            "Motor cars carrying one passenger may use this lane.",
+            "This lane is reserved for bicycle riders only."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI048.png"
+    },
+    {
+        "id": "SI049",
+        "question": "What does this sign mean?",
+        "options": [
+            "Railway level crossing ahead, slow down and look out for trains, be prepared to stop.",
+            "Cattle or sheep crossing the road ahead, drive slowly.",
+            "Give way sign ahead, slow down and be prepared to stop."
+        ],
+        "answer": 0,
+        "top": 246.65771999999993,
+        "image": "q_SI049.png"
+    },
+    {
+        "id": "SI050",
+        "question": "When you see this sign, you should -",
+        "options": [
+            "Drive carefully and watch out for traffic entering from a side-road intersection ahead.",
+            "Take care, trucks crossing the road ahead.",
+            "Take a break, rest area ahead."
+        ],
+        "answer": 0,
+        "top": 426.89771999999994,
+        "image": "q_SI050.png"
+    },
+    {
+        "id": "SI051",
+        "question": "When you see this sign you must -",
+        "options": [
+            "Stop at the stop line and give way to all traffic.",
+            "Stop at the stop line and give way to all traffic on your right only.",
+            "Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian. 74"
+        ],
+        "answer": 0,
+        "top": 598.73772,
+        "image": "q_SI051.png"
+    },
+    {
+        "id": "SI052",
+        "question": "When you see this sign you must -",
+        "options": [
+            "Slow down and be prepared to stop and give way to all traffic if there is any danger of a collision.",
+            "Stop and give way to all traffic even if the intersection is clear.",
+            "Slow down and be prepared to give way to traffic on your right only, if there is any danger of a collision."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI052.png"
+    },
+    {
+        "id": "SI053",
+        "question": "When you see this sign you should -",
+        "options": [
+            "Come to a complete stop, look both ways for trains and proceed with caution if no trains are approaching.",
+            "Slow down, then drive slowly over the crossing looking both ways for trains.",
+            "Stop, only if a train is at the crossing."
+        ],
+        "answer": 0,
+        "top": 232.01771999999994,
+        "image": "q_SI053.png"
+    },
+    {
+        "id": "SI056",
+        "question": "What does this sign mean?",
+        "options": [
+            "Slow down, the maximum safe speed around the next curve in the road is 35km/h.",
+            "Winding road ahead for next 35 km.",
+            "Next main town 35 km to the right."
+        ],
+        "answer": 0,
+        "top": 389.93771999999996,
+        "image": "q_SI056.png"
+    },
+    {
+        "id": "SI057",
+        "question": "When you see this sign you should -",
+        "options": [
+            "Slow down and be prepared to stop if the lights start flashing, warning you of an approaching train.",
+            "Continue at the same speed and not look both ways for approaching trains.",
+            "Stop in the middle of the railway tracks and look both ways for approaching trains. 75"
+        ],
+        "answer": 0,
+        "top": 561.05772,
+        "image": "q_SI057.png"
+    },
+    {
+        "id": "SI058",
+        "question": "What does this sign means?",
+        "options": [
+            "You must stay in or move to the left lane, unless you are overtaking another vehicle.",
+            "You must stay in the left lane and must not overtake any vehicles.",
+            "You can overtake vehicles only on the left side."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI058.png"
+    },
+    {
+        "id": "SI059",
+        "question": "When you see this sign, what must you do?",
+        "options": [
+            "Slow down and be ready to stop and give way to a train.",
+            "Stop before the railway crossing, wait for 1 minute and proceed if the crossing is clear.",
+            "Drive quickly over the railway crossing."
+        ],
+        "answer": 0,
+        "top": 195.89771999999994,
+        "image": "q_SI059.png"
+    },
+    {
+        "id": "SI060",
+        "question": "What does this sign mean?",
+        "options": [
+            "Slow down, be ready to stop and give way to all vehicles already on the roundabout if there is a danger of a collision.",
+            "All traffic must turn back at the roundabout.",
+            "Stop at all times and give way to all traffic on your right."
+        ],
+        "answer": 0,
+        "top": 349.9777199999999,
+        "image": "q_SI060.png"
+    },
+    {
+        "id": "SI061",
+        "question": "When you see this sign you should -",
+        "options": [
+            "Drive carefully, you are reaching the top of the hill and will not be able to see a safe distance in front of you.",
+            "Watch out, the road ahead may be flooded.",
+            "Slow down, there is a dangerous curve ahead."
+        ],
+        "answer": 0,
+        "top": 492.6577199999999,
+        "image": "q_SI061.png"
+    },
+    {
+        "id": "SI062",
+        "question": "What does this sign mean?",
+        "options": [
+            "There is a hump (sudden slope up and down) in the road ahead, slow down.",
+            "There is a tunnel ahead, turn on your headlights.",
+            "The road ahead is closed, go back. 76"
+        ],
+        "answer": 0,
+        "top": 644.69772,
+        "image": "q_SI062.png"
+    },
+    {
+        "id": "SI063",
+        "question": "What does this sign tell you?",
+        "options": [
+            "There may be animals on or near the road ahead, slow down and be prepared to stop to avoid collision.",
+            "Animals are crossing the road ahead, stop and wait for directions.",
+            "You are approaching an animal farm."
+        ],
+        "answer": 0,
+        "top": 74.57772,
+        "image": "q_SI063.png"
+    },
+    {
+        "id": "SI064",
+        "question": "What does this sign mean?",
+        "options": [
+            "Only vehicles carrying a disable person and displaying a mobility parking authority may park in this area.",
+            "Motorcyclists may park in this area.",
+            "Vehicles may park in this area for up to ten minutes. 77"
+        ],
+        "answer": 0,
+        "top": 230.33772,
+        "image": "q_SI064.png"
+    }
+]
