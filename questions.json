@@ -1039,7 +1039,7 @@
             "at least 1.5 metres.",
             "as much as you think is safe."
         ],
-        "answer": 0,
+        "answer": 1,
         "top": 219.89771999999994,
         "image": null
     },
@@ -1051,7 +1051,7 @@
             "yes, always",
             "yes, but you must have a clear view of any approaching traffic and it must be safe to do so. "
         ],
-        "answer": 0,
+        "answer": 2,
         "top": 368.69771999999995,
         "image": null
     },
@@ -1193,7 +1193,7 @@
         "options": [
             "Dress to protect yourself fully from wind, heat, cold and rain and not ride any longer than two hours at a time.",
             "Stop and rest at least every four hours.",
-            "Ride in short sleeves shirt with no gloves to allow the wind to keep you awake. MRH"
+            "Ride in short sleeves shirt with no gloves to allow the wind to keep you awake. "
         ],
         "answer": 0,
         "top": 207.2977199999999,
@@ -1653,7 +1653,7 @@
         ],
         "answer": 0,
         "top": 427.49771999999996,
-        "image": "q_IN065.png"
+        "image": "q_IN066.png"
     },
     {
         "id": "IN067",
@@ -1665,7 +1665,7 @@
         ],
         "answer": 0,
         "top": 0,
-        "image": null
+        "image": "q_IN065.png"
     },
     {
         "id": "IN068",
@@ -1845,7 +1845,7 @@
         ],
         "answer": 0,
         "top": 248.9377199999999,
-        "image": null
+        "image": "q_LD018.png"
     },
     {
         "id": "LD041",
@@ -2789,7 +2789,7 @@
         "options": [
             "Three seconds.",
             "Two seconds.",
-            "Less than a second. MRH"
+            "Less than a second. "
         ],
         "answer": 0,
         "top": 350.0977199999999,
