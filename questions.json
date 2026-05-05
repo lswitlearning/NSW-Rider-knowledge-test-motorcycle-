@@ -29,7 +29,7 @@
         "options": [
             "Action will be taken against all involved. The penalties are severe and include fines and imprisonment.",
             "Nothing, there is no penalty.",
-            "Only the testing officer will be investigated. 1"
+            "Only the testing officer will be investigated."
         ],
         "answer": 0,
         "top": 414.5377199999999,
@@ -101,7 +101,7 @@
         "options": [
             "Must report the accident to the Police Station nearest to where the accident happened within 24 hours.",
             "Do not need to report the accident to the Police.",
-            "Only need to report the accident to the Police if someone was injured. RUH"
+            "Only need to report the accident to the Police if someone was injured."
         ],
         "answer": 0,
         "top": 229.13771999999994,
@@ -125,7 +125,7 @@
         "options": [
             "Render every assistance and take immediate steps to have an ambulance notified. Then call the Police.",
             "Only call the Police if the accident also resulted in over $500 worth of property damage.",
-            "Report the accident to Police within seven days. 3"
+            "Report the accident to Police within seven days."
         ],
         "answer": 0,
         "top": 555.5377199999999,
@@ -185,7 +185,7 @@
         "options": [
             "Slow down and give them plenty of room.",
             "Sound your horn to warn the rider.",
-            "Speed up to pass the horse. 4"
+            "Speed up to pass the horse."
         ],
         "answer": 0,
         "top": 625.49772,
@@ -197,7 +197,7 @@
         "options": [
             "Move into the left lane.",
             "Slow down to the speed of other traffic.",
-            "Continue at the same speed. RUH"
+            "Continue at the same speed."
         ],
         "answer": 0,
         "top": 74.57772,
@@ -233,7 +233,7 @@
         "options": [
             "At least 20 metres.",
             "At least 50 metres.",
-            "At least 5 metres. 5"
+            "At least 5 metres."
         ],
         "answer": 0,
         "top": 571.61772,
@@ -269,7 +269,7 @@
         "options": [
             "Merge to the right and give way to other traffic.",
             "Speed up to get in front of any cars traveling in the right hand lane.",
-            "Stop and wait for directions. RUH"
+            "Stop and wait for directions. "
         ],
         "answer": 0,
         "top": 401.33771999999993,
@@ -281,7 +281,7 @@
         "options": [
             "Yes.",
             "No, they must always ride on the footpath.",
-            "No, they must give way to cars at all times when riding on the road. 6"
+            "No, they must give way to cars at all times when riding on the road."
         ],
         "answer": 0,
         "top": 587.57772,
@@ -341,7 +341,7 @@
         "options": [
             "Before you start the turn.",
             "As you come out of the turn.",
-            "While you are in the turn. 7"
+            "While you are in the turn."
         ],
         "answer": 0,
         "top": 616.73772,
@@ -401,7 +401,7 @@
         "options": [
             "Downshift before stopping.",
             "Downshift only if there is traffic ahead of you.",
-            "Downshift after stopping. 8"
+            "Downshift after stopping."
         ],
         "answer": 0,
         "top": 629.45772,
@@ -461,7 +461,7 @@
         "options": [
             "The centre or left of your lane.",
             "No special part of your lane.",
-            "The far right of your lane. 9"
+            "The far right of your lane."
         ],
         "answer": 0,
         "top": 621.1777199999999,
@@ -521,7 +521,7 @@
         "options": [
             "Rise slightly on the footrests so that you can absorb the shock with your knees and elbows.",
             "Keep your normal seating position.",
-            "Take your feet off the footpegs. 10"
+            "Take your feet off the footpegs."
         ],
         "answer": 0,
         "top": 632.69772,
@@ -581,7 +581,7 @@
         "options": [
             "Immediately squeeze the clutch lever, turn off the engine at the cut- off switch and apply the brakes.",
             "Rotate the throttle back and forth several times.",
-            "Sound your horn to warn other vehicles. 11"
+            "Sound your horn to warn other vehicles. "
         ],
         "answer": 0,
         "top": 637.85772,
@@ -641,7 +641,7 @@
         "options": [
             "16 years and 9 months of age.",
             "16 years of age.",
-            "16 years and 3 months of age. 12"
+            "16 years and 3 months of age."
         ],
         "answer": 0,
         "top": 616.73772,
@@ -701,7 +701,7 @@
         "options": [
             "An Australian Standards AS1698 sticker.",
             "Bright stickers to make the helmet more visible to vehicle drivers.",
-            "A manufacturer's approval and checked by sticker. 13"
+            "A manufacturer's approval and checked by sticker."
         ],
         "answer": 0,
         "top": 644.81772,
@@ -749,7 +749,7 @@
         "options": [
             "Protect your eyes from the wind, dust, rain, insects or stones thrown up by other vehicles.",
             "Reduce your vision and should only be worn in the rain.",
-            "Not make much difference to your riding on a fine day when there is no wind. 14"
+            "Not make much difference to your riding on a fine day when there is no wind. "
         ],
         "answer": 0,
         "top": 477.05771999999996,
@@ -809,7 +809,7 @@
         "options": [
             "Be eight years of age or older.",
             "Be at least six years of age.",
-            "Be a holder of a rider licence. 15"
+            "Be a holder of a rider licence. "
         ],
         "answer": 0,
         "top": 611.57772,
@@ -833,7 +833,7 @@
         "options": [
             "Reduces fatigue and improves control.",
             "Is whatever position you are most comfortable in.",
-            "Will make you more visible to other road users. 16"
+            "Will make you more visible to other road users. "
         ],
         "answer": 0,
         "top": 206.09771999999998,
@@ -893,7 +893,7 @@
         "options": [
             "Will affect your reactions and judgement.",
             "Improves your driving ability.",
-            "Has no effect on your driving ability. 17"
+            "Has no effect on your driving ability."
         ],
         "answer": 0,
         "top": 583.97772,
@@ -917,7 +917,7 @@
         "options": [
             "It slows down how quickly your brain works.",
             "It speeds your brain up so you can work better.",
-            "It makes you calm down and think more clearly. RUH"
+            "It makes you calm down and think more clearly. "
         ],
         "answer": 0,
         "top": 183.1777199999999,
@@ -965,7 +965,7 @@
         "options": [
             "Not drinking any alcohol.",
             "Buying a breathalyser (alcohol measuring instrument).",
-            "Exercising and drinking black coffee. 18"
+            "Exercising and drinking black coffee. "
         ],
         "answer": 0,
         "top": 654.6577199999999,
@@ -1013,7 +1013,7 @@
         "options": [
             "Tell your doctor you ride a motorcycle, check with your pharmacist and read the label on the drugs.",
             "Not ride at all while taking any medication.",
-            "Not take the medication if you want to ride. 19"
+            "Not take the medication if you want to ride. "
         ],
         "answer": 0,
         "top": 466.73771999999997,
@@ -1049,7 +1049,7 @@
         "options": [
             "no.",
             "yes, always",
-            "yes, but you must have a clear view of any approaching traffic and it must be safe to do so. 20"
+            "yes, but you must have a clear view of any approaching traffic and it must be safe to do so. "
         ],
         "answer": 0,
         "top": 368.69771999999995,
@@ -1109,7 +1109,7 @@
         "options": [
             "Turn on your headlights, slow down, and double your following distance behind the vehicle in front.",
             "Turn your headlights on high beam.",
-            "Flash your headlights to warn other drivers. 21"
+            "Flash your headlights to warn other drivers. "
         ],
         "answer": 0,
         "top": 565.61772,
@@ -1169,7 +1169,7 @@
         "options": [
             "Get plenty of rest before starting out.",
             "Make sure your horn is working.",
-            "Have a good meal before driving. 22"
+            "Have a good meal before driving. "
         ],
         "answer": 0,
         "top": 578.4577199999999,
@@ -1205,7 +1205,7 @@
         "options": [
             "Stop immediately and rest.",
             "Ride without gloves and in a short sleeves shirt to allow the wind on your body to help you concentrate.",
-            "Constantly change your speed up and down to help you concentrate on what you are doing. 23"
+            "Constantly change your speed up and down to help you concentrate on what you are doing. "
         ],
         "answer": 0,
         "top": 342.4177199999999,
@@ -1253,7 +1253,7 @@
         "options": [
             "Yes, it has the same meaning as the sign itself.",
             "No, but you must give way if turning.",
-            "No, you only need to give way to the vehicle on your right. 24"
+            "No, you only need to give way to the vehicle on your right. "
         ],
         "answer": 0,
         "top": 624.53772,
@@ -1289,7 +1289,7 @@
         "options": [
             "The far right-hand lane or any other lane having an arrow pointing right.",
             "The lane carrying the least amount of traffic.",
-            "The far left-hand lane. 25"
+            "The far left-hand lane. "
         ],
         "answer": 0,
         "top": 454.9777199999999,
@@ -1337,7 +1337,7 @@
         "options": [
             "Yes, at all times.",
             "Yes, if there is traffic on your right only.",
-            "No, if the intersection is clear. 26"
+            "No, if the intersection is clear. "
         ],
         "answer": 0,
         "top": 619.25772,
@@ -1385,7 +1385,7 @@
         "options": [
             "Vehicle R.",
             "Vehicle Q.",
-            "Whichever vehicle got there last. 27"
+            "Whichever vehicle got there last. "
         ],
         "answer": 0,
         "top": 584.33772,
@@ -1421,7 +1421,7 @@
         "options": [
             "Stop at all times and proceed when safe to do so.",
             "Slow down to 10 km/h, then proceed through the crossing.",
-            "Stop, only if a train is at the crossing. 28"
+            "Stop, only if a train is at the crossing. "
         ],
         "answer": 0,
         "top": 357.29771999999997,
@@ -1457,7 +1457,7 @@
         "options": [
             "Slow down, look both ways for trains and be prepared to stop if necessary.",
             "Increase your speed to avoid any approaching trains.",
-            "Continue across at normal speed, do not slow down. RUH"
+            "Continue across at normal speed, do not slow down. "
         ],
         "answer": 0,
         "top": 399.6577199999999,
@@ -1469,7 +1469,7 @@
         "options": [
             "Slow down, be ready to stop and give way if there is danger of collision.",
             "Speed up and cross the tracks quickly.",
-            "Stop completely at all times. 29"
+            "Stop completely at all times. "
         ],
         "answer": 0,
         "top": 605.09772,
@@ -1481,7 +1481,7 @@
         "options": [
             "Only when there is room for your vehicle on the other side.",
             "Immediately after the traffic lights turn green.",
-            "When the vehicle behind signals you to go. RUH"
+            "When the vehicle behind signals you to go."
         ],
         "answer": 0,
         "top": 86.33771999999999,
@@ -1517,7 +1517,7 @@
         "options": [
             "Before coming to and as near to the intersection as possible.",
             "At least five metres before the intersection.",
-            "At the point where you can see clearly in both directions. 30"
+            "At the point where you can see clearly in both directions. "
         ],
         "answer": 0,
         "top": 587.81772,
@@ -1565,7 +1565,7 @@
         "options": [
             "Left from start to finish.",
             "Only if you think it necessary.",
-            "Left only after you enter the roundabout. 31"
+            "Left only after you enter the roundabout. "
         ],
         "answer": 0,
         "top": 576.1777199999999,
@@ -1613,7 +1613,7 @@
         "options": [
             "In the left lane.",
             "In the right lane.",
-            "In the lane with least traffic. 32"
+            "In the lane with least traffic. "
         ],
         "answer": 0,
         "top": 597.53772,
@@ -1661,7 +1661,7 @@
         "options": [
             "No, the car should enter the roundabout only from the right hand lane.",
             "Yes, the car can make the turn only from this lane.",
-            "Yes, the car can make the turn from either the left hand or the right hand lane. 33"
+            "Yes, the car can make the turn from either the left hand or the right hand lane. "
         ],
         "answer": 0,
         "top": 0,
@@ -1685,7 +1685,7 @@
         "options": [
             "Give way to the pedestrian.",
             "Sound your horn to warn the pedestrian to get out of the way.",
-            "Swerve around the pedestrian to avoid hitting them. 34"
+            "Swerve around the pedestrian to avoid hitting them. "
         ],
         "answer": 0,
         "top": 194.57772,
@@ -1733,7 +1733,7 @@
         "options": [
             "O and P only.",
             "P only.",
-            "O, P and Q. 35"
+            "O, P and Q. "
         ],
         "answer": 0,
         "top": 599.45772,
@@ -1769,7 +1769,7 @@
         "options": [
             "Only when it is safe to do so.",
             "Without looking, provided you use your indicator",
-            "Provided you sound your horn to warn other drivers 36"
+            "Provided you sound your horn to warn other drivers "
         ],
         "answer": 0,
         "top": 467.57771999999994,
@@ -1817,7 +1817,7 @@
         "options": [
             "Take whatever action is necessary (with safety) to make way for the emergency vehicle.",
             "Flash your headlights to warn other drivers.",
-            "Increase your speed to avoid the vehicle. 37"
+            "Increase your speed to avoid the vehicle. "
         ],
         "answer": 0,
         "top": 590.57772,
@@ -1865,7 +1865,7 @@
         "options": [
             "Always required before turning or lane changing.",
             "Not required when turning at T-intersections.",
-            "Not required when turning at traffic lights with a green arrow. 38"
+            "Not required when turning at traffic lights with a green arrow. "
         ],
         "answer": 0,
         "top": 558.7777199999999,
@@ -1913,7 +1913,7 @@
         "options": [
             "Keep to the left and slow down.",
             "Flash your headlights to warn oncoming traffic.",
-            "Increase your speed and sound your horn. 39"
+            "Increase your speed and sound your horn. "
         ],
         "answer": 0,
         "top": 548.6977199999999,
@@ -1961,7 +1961,7 @@
         "options": [
             "More distance and time you need to overtake.",
             "Less time you need to overtake.",
-            "Closer you must get before starting to overtake. 40"
+            "Closer you must get before starting to overtake."
         ],
         "answer": 0,
         "top": 596.57772,
@@ -1985,7 +1985,7 @@
         "options": [
             "Keep left and allow plenty of room to let the other vehicle back in.",
             "Brake quickly to let the other vehicle overtake.",
-            "Move to the left and stop. RUH"
+            "Move to the left and stop."
         ],
         "answer": 0,
         "top": 194.57772,
@@ -1997,7 +1997,7 @@
         "options": [
             "Check to see it is safe, change gear if necessary, and signal your intention before moving out.",
             "Signal and slow down so you will have more room to overtake.",
-            "Sound your horn, move out and overtake. RUH"
+            "Sound your horn, move out and overtake. "
         ],
         "answer": 0,
         "top": 317.9377199999999,
@@ -2021,7 +2021,7 @@
         "options": [
             "The same as you would another car, with safety.",
             "Drive as close as possible to the cyclist so he or she will move over and let you pass.",
-            "Sound your horn to warn the cyclist to get off the road. 41"
+            "Sound your horn to warn the cyclist to get off the road."
         ],
         "answer": 0,
         "top": 615.7777199999999,
@@ -2057,7 +2057,7 @@
         "options": [
             "Crossed an unbroken lane line.",
             "Driven too slowly.",
-            "Changed lanes unnecessarily. 42"
+            "Changed lanes unnecessarily."
         ],
         "answer": 0,
         "top": 374.57771999999994,
@@ -2077,7 +2077,7 @@
     },
     {
         "id": "ND033",
-        "question": "RUH The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
+        "question": "The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
         "options": [
             "Move into the left lane.",
             "Keep your position in this lane.",
@@ -2089,7 +2089,7 @@
     },
     {
         "id": "ND034",
-        "question": "RUH The speed limit on this road is 100 km/h. When can you use the right lane?",
+        "question": "The speed limit on this road is 100 km/h. When can you use the right lane?",
         "options": [
             "Only when overtaking or turning right.",
             "Whenever you want to.",
@@ -2105,7 +2105,7 @@
         "options": [
             "Speed up while the other vehicle is on your right.",
             "Keep the same speed.",
-            "Slow down while the other vehicle is on your right. 43"
+            "Slow down while the other vehicle is on your right. "
         ],
         "answer": 0,
         "top": 562.13772,
@@ -2165,7 +2165,7 @@
         "options": [
             "Yes.",
             "No.",
-            "Only for 10 km/h or more over the speed limit. 44"
+            "Only for 10 km/h or more over the speed limit. "
         ],
         "answer": 0,
         "top": 651.1777199999999,
@@ -2213,7 +2213,7 @@
         "options": [
             "B",
             "A",
-            "C 45"
+            "C"
         ],
         "answer": 0,
         "top": 544.9777199999999,
@@ -2273,7 +2273,7 @@
         "options": [
             "One of the most common groups involved in road accidents.",
             "Unlikely to walk near the road and do not require your attention.",
-            "Less dangerous than sober pedestrians because they are more careful after drinking. 46"
+            "Less dangerous than sober pedestrians because they are more careful after drinking. "
         ],
         "answer": 0,
         "top": 634.49772,
@@ -2333,7 +2333,7 @@
         "options": [
             "You may carefully drive through the crossing, if there is no risk of colliding with pedestrians.",
             "The traffic lights are out of order and pedestrians must not use the crossing.",
-            "The green light is due. Do not proceed until the green light appears. 47"
+            "The green light is due. Do not proceed until the green light appears."
         ],
         "answer": 0,
         "top": 585.4177199999999,
@@ -2381,7 +2381,7 @@
         "options": [
             "Places where pedestrians have special rights.",
             "Places where you can park.",
-            "Places where special speed limits apply. 48"
+            "Places where special speed limits apply."
         ],
         "answer": 0,
         "top": 601.0177199999999,
@@ -2429,7 +2429,7 @@
         "options": [
             "Give way to the person if there is any danger of colliding.",
             "Slow down and sound the horn to warn the person to move back.",
-            "Maintain your speed so you do not hold up the traffic. 49"
+            "Maintain your speed so you do not hold up the traffic."
         ],
         "answer": 0,
         "top": 574.25772,
@@ -2477,7 +2477,7 @@
         "options": [
             "Look more carefully for pedestrians because they are hard to see.",
             "Keep your headlights on high beam all the time.",
-            "Always drive in the right hand lane so you can be away from pedestrians. 50"
+            "Always drive in the right hand lane so you can be away from pedestrians. "
         ],
         "answer": 0,
         "top": 630.6577199999999,
@@ -2513,7 +2513,7 @@
         "options": [
             "The right turn indicator.",
             "The tail-light.",
-            "The headlight on high beam. 51"
+            "The headlight on high beam."
         ],
         "answer": 0,
         "top": 481.13771999999994,
@@ -2561,7 +2561,7 @@
         "options": [
             "Adopting a correct relaxed riding position.",
             "Gripping the handlebars as tightly as possible.",
-            "Sitting as far back on the seat as possible to give the rear tyre more grip. 52"
+            "Sitting as far back on the seat as possible to give the rear tyre more grip. "
         ],
         "answer": 0,
         "top": 547.9777199999999,
@@ -2621,7 +2621,7 @@
         "options": [
             "Upright and travelling in a straight line.",
             "Leaned over whilst cornering.",
-            "Carrying a load and travelling at the sign posted speed limit. 53"
+            "Carrying a load and travelling at the sign posted speed limit. "
         ],
         "answer": 0,
         "top": 566.81772,
@@ -2693,7 +2693,7 @@
         "options": [
             "See what is in their 'blind spots'.",
             "See what is behind them.",
-            "See what is to the front side of them. 54"
+            "See what is to the front side of them."
         ],
         "answer": 0,
         "top": 652.0177199999999,
@@ -2753,7 +2753,7 @@
         "options": [
             "Reduce the lean angle of the motorcycle so the tyres will grip better.",
             "Sit towards the back of the motorcycle to give more grip to the rear wheel.",
-            "Lean as much as normal for the corner only be smoother on the throttle. 55"
+            "Lean as much as normal for the corner only be smoother on the throttle. "
         ],
         "answer": 0,
         "top": 601.61772,
@@ -2801,7 +2801,7 @@
         "options": [
             "Every few seconds so that you always know what is behind you.",
             "Before you accelerate or brake so that you do not force people to change their speed.",
-            "Before every ride. 56"
+            "Before every ride."
         ],
         "answer": 0,
         "top": 486.77771999999993,
@@ -2873,7 +2873,7 @@
         "options": [
             "Create a buffer between you and the other vehicle.",
             "Always slow down.",
-            "Swerve to avoid it, while braking. 57"
+            "Swerve to avoid it, while braking. "
         ],
         "answer": 0,
         "top": 662.57772,
@@ -2884,7 +2884,7 @@
         "question": "When taking a left curve you should -",
         "options": [
             "Plan to finish in the left part of your lane.",
-            "Brake as late as possible to maintain your speed and balance. RUH"
+            "Brake as late as possible to maintain your speed and balance. "
         ],
         "answer": 0,
         "top": 86.33771999999999,
@@ -2896,7 +2896,7 @@
         "options": [
             "Never legally permitted.",
             "Permitted only when passing another vehicle.",
-            "Only permitted when other vehicles are going faster than the speed limit. RUH"
+            "Only permitted when other vehicles are going faster than the speed limit."
         ],
         "answer": 0,
         "top": 228.0577199999999,
@@ -2908,7 +2908,7 @@
         "options": [
             "10 Km/h.",
             "20 Km/h.",
-            "50 Km/h. 58"
+            "50 Km/h."
         ],
         "answer": 0,
         "top": 378.6577199999999,
@@ -2968,7 +2968,7 @@
         "options": [
             "Slow down to the new speed limit.",
             "Drive through the road works zone as fast as you can to get past it.",
-            "Drive at the same speed as other vehicles. 59"
+            "Drive at the same speed as other vehicles. "
         ],
         "answer": 0,
         "top": 640.25772,
@@ -2988,7 +2988,7 @@
     },
     {
         "id": "TL002",
-        "question": "RUH At traffic lights what is meant when a red light appears?",
+        "question": "At traffic lights what is meant when a red light appears?",
         "options": [
             "Stop, wait behind the stop line until the lights change to green.",
             "Stop, wait behind the stop line until the lights change to yellow.",
@@ -3016,7 +3016,7 @@
         "options": [
             "If the lights are red you must first stop, then you may turn left if it is safe to do so.",
             "You should slow down and check if anyone is coming before turning left.",
-            "You may turn left only if a green arrow is shown. 60"
+            "You may turn left only if a green arrow is shown. "
         ],
         "answer": 0,
         "top": 613.25772,
@@ -3060,7 +3060,7 @@
         "options": [
             "Not turn right while the arrow is red.",
             "Turn right when you have waited one minute.",
-            "Turn right if it is safe to do so. 61"
+            "Turn right if it is safe to do so. "
         ],
         "answer": 0,
         "top": 582.7777199999999,
@@ -3108,7 +3108,7 @@
         "options": [
             "Stay behind the stop line until the green arrow shows.",
             "Move forward slowly.",
-            "Enter the intersection and wait for the green arrow. 62"
+            "Enter the intersection and wait for the green arrow. "
         ],
         "answer": 0,
         "top": 609.1777199999999,
@@ -3156,7 +3156,7 @@
         "options": [
             "Must be obeyed.",
             "Apply to road works vehicles only.",
-            "Are installed to warn motorists of construction works. 63"
+            "Are installed to warn motorists of construction works. "
         ],
         "answer": 0,
         "top": 580.61772,
@@ -3168,7 +3168,7 @@
         "options": [
             "At the ‘Stop here on red signal’ sign.",
             "Where the lane ends.",
-            "After the traffic lights, but before the construction zone. 64"
+            "After the traffic lights, but before the construction zone. "
         ],
         "answer": 0,
         "top": 74.57772,
@@ -3216,7 +3216,7 @@
         "options": [
             "Traffic travels in each direction.",
             "No turns permitted.",
-            "Double lane bridge ahead. 65"
+            "Double lane bridge ahead. "
         ],
         "answer": 0,
         "top": 597.29772,
@@ -3264,7 +3264,7 @@
         "options": [
             "You may travel only in the direction in which the arrow is pointing.",
             "No left turn.",
-            "One lane bridge ahead, slow down. 66"
+            "One lane bridge ahead, slow down. "
         ],
         "answer": 0,
         "top": 583.13772,
@@ -3312,7 +3312,7 @@
         "options": [
             "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left.",
             "No through road ahead, slow down.",
-            "Tollway ahead, be prepared to stop and pay toll. 67"
+            "Tollway ahead, be prepared to stop and pay toll. "
         ],
         "answer": 0,
         "top": 570.5377199999999,
@@ -3360,7 +3360,7 @@
         "options": [
             "As you approach a winding road, slow down and drive with caution.",
             "If there is a steep hill ahead.",
-            "If an unsealed road is ahead. 68"
+            "If an unsealed road is ahead. "
         ],
         "answer": 0,
         "top": 569.4577199999999,
@@ -3408,7 +3408,7 @@
         "options": [
             "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians.",
             "Hospital ahead, drive carefully.",
-            "Cemetery ahead. 69"
+            "Cemetery ahead. "
         ],
         "answer": 0,
         "top": 590.45772,
@@ -3456,7 +3456,7 @@
         "options": [
             "Slow down and look out for pedestrians crossing the road ahead.",
             "Stop and help aged pedestrians across the road.",
-            "Hospital ahead, slow down and proceed with caution. 70"
+            "Hospital ahead, slow down and proceed with caution. "
         ],
         "answer": 0,
         "top": 590.57772,
@@ -3504,7 +3504,7 @@
         "options": [
             "Watch out for bicycle riders along the roadway or when turning.",
             "Bicycle riders not allowed on the roadway.",
-            "You are approaching a children's playground, slow down. 71"
+            "You are approaching a children's playground, slow down. "
         ],
         "answer": 0,
         "top": 590.45772,
@@ -3552,7 +3552,7 @@
         "options": [
             "Steep down-grade in the road ahead, slow down.",
             "Road ahead slippery when wet, drive carefully.",
-            "Road under repair, slow down. 72"
+            "Road under repair, slow down. "
         ],
         "answer": 0,
         "top": 585.53772,
@@ -3600,7 +3600,7 @@
         "options": [
             "Vehicles are not allowed to stop at the kerb except in a medical emergency.",
             "Vehicles must not stop at the kerb, except if picking up a passenger.",
-            "Vehicles must not stop at the kerb, unless picking up goods. 73"
+            "Vehicles must not stop at the kerb, unless picking up goods. "
         ],
         "answer": 0,
         "top": 567.4177199999999,
@@ -3648,7 +3648,7 @@
         "options": [
             "Stop at the stop line and give way to all traffic.",
             "Stop at the stop line and give way to all traffic on your right only.",
-            "Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian. 74"
+            "Slow down and be prepared to stop only if there is any danger of a collision with another vehicle or pedestrian. "
         ],
         "answer": 0,
         "top": 598.73772,
@@ -3696,7 +3696,7 @@
         "options": [
             "Slow down and be prepared to stop if the lights start flashing, warning you of an approaching train.",
             "Continue at the same speed and not look both ways for approaching trains.",
-            "Stop in the middle of the railway tracks and look both ways for approaching trains. 75"
+            "Stop in the middle of the railway tracks and look both ways for approaching trains. "
         ],
         "answer": 0,
         "top": 561.05772,
@@ -3756,7 +3756,7 @@
         "options": [
             "There is a hump (sudden slope up and down) in the road ahead, slow down.",
             "There is a tunnel ahead, turn on your headlights.",
-            "The road ahead is closed, go back. 76"
+            "The road ahead is closed, go back. "
         ],
         "answer": 0,
         "top": 644.69772,
@@ -3780,7 +3780,7 @@
         "options": [
             "Only vehicles carrying a disable person and displaying a mobility parking authority may park in this area.",
             "Motorcyclists may park in this area.",
-            "Vehicles may park in this area for up to ten minutes. 77"
+            "Vehicles may park in this area for up to ten minutes. "
         ],
         "answer": 0,
         "top": 230.33772,
