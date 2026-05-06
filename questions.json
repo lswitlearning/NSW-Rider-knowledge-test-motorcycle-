@@ -3024,8 +3024,12 @@
     },
     {
         "id": "TL005",
-        "question": "Are you permitted to make a U-Turn at traffic lights? − No, unless there is a U-TURN PERMITTED sign at the intersection. − Yes, at all times. − Yes, if there is no danger of colliding with another vehicle.",
-        "options": [],
+        "question": "Are you permitted to make a U-Turn at traffic lights?",
+        "options": [
+            "No, unless there is a U-TURN PERMITTED sign at the intersection.",
+            "Yes, at all times.",
+            "Yes, if there is no danger of colliding with another vehicle."
+        ],
         "answer": 0,
         "top": 97.73771999999997,
         "image": null
